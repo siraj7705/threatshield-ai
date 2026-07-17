@@ -1,0 +1,14 @@
+# =================================================
+# LOCATION: threatshield-ai/backend/.dockerignore
+# =================================================
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+threatshield.db
+logs/
+*.egg-info/
+.pytest_cache/
+.git/

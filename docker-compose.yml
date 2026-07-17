@@ -1,0 +1,159 @@
+version: "3.9"
+
+# ThreatShield AI — one-command local stack.
+#   cp .env.example .env   (edit values as needed)
+#   docker compose up --build
+#
+# Services start in this order, gated by healthchecks:
+#   postgres -> backend (runs Alembic migrations, then serves API) -> frontend
+#
+# Phase 3/4 services (clamav, elasticsearch) are included so the whole
+# pipeline is `docker compose up`-able once the app code is wired to use
+# them; they're not yet load-bearing for Phase 1 (Postgres+RBAC) to work.
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: threatshield-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-threatshield}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-threatshield_dev_password_change_me}
+      POSTGRES_DB: ${POSTGRES_DB:-threatshield}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-threatshield} -d ${POSTGRES_DB:-threatshield}" ]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - threatshield-net
+
+  clamav:
+    image: clamav/clamav:latest
+    container_name: threatshield-clamav
+    restart: unless-stopped
+    # Freshclam (virus DB updater) runs on container start; first boot
+    # can take a few minutes while it downloads definitions.
+    volumes:
+      - clamav_data:/var/lib/clamav
+    ports:
+      - "3310:3310"
+    healthcheck:
+      test: [ "CMD-SHELL", "echo PING | nc -w 3 localhost 3310 | grep -q PONG" ]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 120s
+    networks:
+      - threatshield-net
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+    container_name: threatshield-elasticsearch
+    restart: unless-stopped
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1" ]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+    networks:
+      - threatshield-net
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: threatshield-backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+asyncpg://threatshield:threatshield_dev_password_change_me@postgres:5432/threatshield}
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      APP_NAME: ${APP_NAME:-ThreatShield AI}
+      APP_ENV: ${APP_ENV:-development}
+      DEBUG: ${DEBUG:-true}
+      SECRET_KEY: ${SECRET_KEY:-change-this-to-a-secure-random-string-in-production}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-change-this-to-a-long-random-string-in-production}
+      JWT_ALGORITHM: ${JWT_ALGORITHM:-HS256}
+      JWT_ACCESS_TOKEN_EXPIRE_MINUTES: ${JWT_ACCESS_TOKEN_EXPIRE_MINUTES:-60}
+      JWT_REFRESH_TOKEN_EXPIRE_DAYS: ${JWT_REFRESH_TOKEN_EXPIRE_DAYS:-7}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:5173,http://localhost:3000,http://localhost}
+      NLP_MODEL_PATH: ./ml_models
+      SPACY_MODEL: ${SPACY_MODEL:-en_core_web_sm}
+      MAX_EMAIL_SIZE_MB: ${MAX_EMAIL_SIZE_MB:-25}
+      ALLOWED_EXTENSIONS: ${ALLOWED_EXTENSIONS:-.eml,.msg,.txt}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      LOG_FILE: ./logs/threatshield.log
+      GMAIL_CREDENTIALS_FILE: ${GMAIL_CREDENTIALS_FILE:-credentials.json}
+      GMAIL_TOKEN_FILE: ${GMAIL_TOKEN_FILE:-gmail_token.json}
+      GMAIL_PUBSUB_TOPIC: ${GMAIL_PUBSUB_TOPIC:-}
+      GMAIL_ADMIN_EMAIL: ${GMAIL_ADMIN_EMAIL:-}
+      GMAIL_WATCHER_EMAIL: ${GMAIL_WATCHER_EMAIL:-}
+      APP_BASE_URL: ${APP_BASE_URL:-http://localhost:8000}
+      GOOGLE_SAFE_BROWSING_API_KEY: ${GOOGLE_SAFE_BROWSING_API_KEY:-}
+      IP_REPUTATION_PROVIDER: ${IP_REPUTATION_PROVIDER:-ip-api}
+      IP_REPUTATION_API_KEY: ${IP_REPUTATION_API_KEY:-}
+      CLAMAV_HOST: ${CLAMAV_HOST:-clamav}
+      CLAMAV_PORT: ${CLAMAV_PORT:-3310}
+      ELASTICSEARCH_URL: ${ELASTICSEARCH_URL:-http://elasticsearch:9200}
+      ELASTICSEARCH_ENABLED: ${ELASTICSEARCH_ENABLED:-true}
+    volumes:
+      - ./backend/logs:/app/logs
+      - ./backend/ml_models:/app/ml_models
+      # Mount credentials/token only if present; bind mounts to
+      # nonexistent files would fail, so create empty placeholders
+      # with `touch backend/credentials.json backend/gmail_token.json`
+      # if you want to wire up Gmail. Otherwise leave commented out.
+      # - ./backend/credentials.json:/app/credentials.json:ro
+      # - ./backend/gmail_token.json:/app/gmail_token.json
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: [ "CMD", "curl", "-sf", "http://localhost:8000/health" ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    networks:
+      - threatshield-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: ${VITE_API_URL:-}
+    container_name: threatshield-frontend
+    restart: unless-stopped
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "80:80"
+    networks:
+      - threatshield-net
+
+networks:
+  threatshield-net:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  clamav_data:
+  es_data:

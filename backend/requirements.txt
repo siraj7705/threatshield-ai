@@ -1,0 +1,56 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+websockets==14.2
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+aiosqlite==0.20.0
+asyncpg==0.30.0
+alembic==1.14.1
+psycopg2-binary==2.9.10
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+cryptography==44.0.0
+
+# Email Parsing
+mail-parser==3.15.0
+python-dateutil==2.9.0
+
+# NLP & ML
+transformers==4.47.1
+torch==2.5.1
+spacy==3.8.3
+scikit-learn==1.6.1
+sentence-transformers==3.3.1
+numpy==1.26.4
+
+# PDF Reports
+reportlab==4.2.5
+
+# Attachment Content Scanning
+pypdf>=4.0
+python-docx>=1.1
+
+# Utilities
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+aiofiles==24.1.0
+httpx==0.28.1
+jinja2==3.1.5
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+
+# Gmail Integration
+google-auth==2.37.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.154.0

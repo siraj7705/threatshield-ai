@@ -1,0 +1,598 @@
+[
+  {
+    "text": "Hi, just wanted to follow up on the meeting scheduled for tomorrow.",
+    "label": "safe"
+  },
+  {
+    "text": "Please find the attached invoice for your review.",
+    "label": "safe"
+  },
+  {
+    "text": "Congratulations on your promotion! Well deserved.",
+    "label": "safe"
+  },
+  {
+    "text": "Can we reschedule our call to next week?",
+    "label": "safe"
+  },
+  {
+    "text": "The quarterly report is ready for your review.",
+    "label": "safe"
+  },
+  {
+    "text": "Thank you for your order. It will ship within 2-3 business days.",
+    "label": "safe"
+  },
+  {
+    "text": "Reminder: your subscription renews on the 15th.",
+    "label": "safe"
+  },
+  {
+    "text": "Happy birthday! Hope you have a wonderful day.",
+    "label": "safe"
+  },
+  {
+    "text": "Please review the attached contract and let me know your thoughts.",
+    "label": "safe"
+  },
+  {
+    "text": "The project deadline has been extended to next Friday.",
+    "label": "safe"
+  },
+  {
+    "text": "Your password reset request has been received.",
+    "label": "safe"
+  },
+  {
+    "text": "Welcome to our newsletter! Here are this week's top stories.",
+    "label": "safe"
+  },
+  {
+    "text": "Your appointment is confirmed for Monday at 10 AM.",
+    "label": "safe"
+  },
+  {
+    "text": "The office will be closed on public holidays.",
+    "label": "safe"
+  },
+  {
+    "text": "Please complete the employee satisfaction survey by end of week.",
+    "label": "safe"
+  },
+  {
+    "text": "Your flight has been confirmed. Check-in opens 24 hours before departure.",
+    "label": "safe"
+  },
+  {
+    "text": "Here are the minutes from yesterday's team meeting.",
+    "label": "safe"
+  },
+  {
+    "text": "The new software update includes several bug fixes.",
+    "label": "safe"
+  },
+  {
+    "text": "Your bank statement for last month is now available.",
+    "label": "safe"
+  },
+  {
+    "text": "Thank you for attending our webinar. Here is the recording.",
+    "label": "safe"
+  },
+  {
+    "text": "The annual performance review cycle begins next month.",
+    "label": "safe"
+  },
+  {
+    "text": "Please update your contact information in the HR portal.",
+    "label": "safe"
+  },
+  {
+    "text": "Your package has been delivered to your front door.",
+    "label": "safe"
+  },
+  {
+    "text": "Join us for the company picnic this Saturday.",
+    "label": "safe"
+  },
+  {
+    "text": "The library book you requested is now available for pickup.",
+    "label": "safe"
+  },
+  {
+    "text": "Your insurance claim has been processed successfully.",
+    "label": "safe"
+  },
+  {
+    "text": "Please submit your timesheet by Friday 5 PM.",
+    "label": "safe"
+  },
+  {
+    "text": "The road closure on Main Street will end by Thursday.",
+    "label": "safe"
+  },
+  {
+    "text": "Your tax documents are ready to download.",
+    "label": "safe"
+  },
+  {
+    "text": "We are pleased to inform you that your loan application was approved.",
+    "label": "safe"
+  },
+  {
+    "text": "There is a bomb planted in the building. Evacuate immediately.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We have placed explosives in the terminal. You have one hour.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "A bomb will detonate at noon unless our demands are met.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "Explosives have been planted throughout the airport. Leave now.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "The device is set to explode at midnight. Evacuate the area.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We planted a pipe bomb in your office. Pay us or it goes off.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "There is an IED hidden in the parking lot. Evacuate now.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "A car bomb has been placed near the main entrance.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "The timer is counting down. The bomb will detonate in 30 minutes.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We have rigged the building with explosives. This is your only warning.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "Bomb threat: evacuate the courthouse immediately, device located inside.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "Your school has been rigged with explosives. Students must leave now.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We planted dynamite in the subway station. Explosion imminent.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "A suicide bomber is inside the shopping mall right now.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "The bridge has been rigged to explode. Do not use it.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We have placed C4 explosives throughout the stadium.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "Detonation will occur at 3 PM unless demands are fulfilled.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "Multiple bombs have been planted across the city center.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "The bomb is inside the government building. Evacuate immediately.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "We will detonate the device if our demands are not met in 2 hours.",
+    "label": "bomb_threat"
+  },
+  {
+    "text": "I will kill you if you don't comply with my demands.",
+    "label": "violence"
+  },
+  {
+    "text": "We are going to shoot everyone in that building tomorrow.",
+    "label": "violence"
+  },
+  {
+    "text": "You will not survive the week. I have a gun and I know where you live.",
+    "label": "violence"
+  },
+  {
+    "text": "I'm going to murder you and your entire family.",
+    "label": "violence"
+  },
+  {
+    "text": "There will be a mass shooting at the school on Monday.",
+    "label": "violence"
+  },
+  {
+    "text": "I will hunt you down and execute you in front of everyone.",
+    "label": "violence"
+  },
+  {
+    "text": "You are going to die for what you did. I am coming for you.",
+    "label": "violence"
+  },
+  {
+    "text": "We will slaughter everyone at the event. No one will be spared.",
+    "label": "violence"
+  },
+  {
+    "text": "I have a rifle and I am going to shoot you on sight.",
+    "label": "violence"
+  },
+  {
+    "text": "Blood will be shed at the courthouse tomorrow morning.",
+    "label": "violence"
+  },
+  {
+    "text": "I am planning to carry out a massacre at the university.",
+    "label": "violence"
+  },
+  {
+    "text": "You and your coworkers will be dead by Friday.",
+    "label": "violence"
+  },
+  {
+    "text": "I will stab you to death the next time I see you.",
+    "label": "violence"
+  },
+  {
+    "text": "We are armed and ready to attack your headquarters tonight.",
+    "label": "violence"
+  },
+  {
+    "text": "The carnage will begin at the opening ceremony.",
+    "label": "violence"
+  },
+  {
+    "text": "I will shoot you the moment you leave your house.",
+    "label": "violence"
+  },
+  {
+    "text": "Everyone at the conference will be killed. This is a warning.",
+    "label": "violence"
+  },
+  {
+    "text": "You will pay with your blood for betraying us.",
+    "label": "violence"
+  },
+  {
+    "text": "I have weapons and I am not afraid to use them on you.",
+    "label": "violence"
+  },
+  {
+    "text": "We plan to carry out a violent attack at the station this weekend.",
+    "label": "violence"
+  },
+  {
+    "text": "Our cell will launch a terror attack on the city center.",
+    "label": "terror"
+  },
+  {
+    "text": "The infidels will face jihad. The attack begins at dawn.",
+    "label": "terror"
+  },
+  {
+    "text": "We are planning a biological weapon attack on the water supply.",
+    "label": "terror"
+  },
+  {
+    "text": "The martyrs are ready to sacrifice themselves for the cause.",
+    "label": "terror"
+  },
+  {
+    "text": "We have obtained sarin gas and will release it in the subway.",
+    "label": "terror"
+  },
+  {
+    "text": "The dirty bomb is ready. The infidels will suffer.",
+    "label": "terror"
+  },
+  {
+    "text": "Our extremist group will attack the parliament building.",
+    "label": "terror"
+  },
+  {
+    "text": "Chemical weapons will be deployed in the crowded marketplace.",
+    "label": "terror"
+  },
+  {
+    "text": "The terrorist cell will strike at the airport departure lounge.",
+    "label": "terror"
+  },
+  {
+    "text": "We have anthrax and will mail it to government officials.",
+    "label": "terror"
+  },
+  {
+    "text": "The WMD attack will paralyze the entire city.",
+    "label": "terror"
+  },
+  {
+    "text": "Radicalized members of our group have infiltrated the facility.",
+    "label": "terror"
+  },
+  {
+    "text": "The nerve agent has been synthesized. The attack is imminent.",
+    "label": "terror"
+  },
+  {
+    "text": "Our militia will destroy the military base at 0200 hours.",
+    "label": "terror"
+  },
+  {
+    "text": "The insurgents are ready to strike the power grid.",
+    "label": "terror"
+  },
+  {
+    "text": "We are planning a coordinated attack using weapons of mass destruction.",
+    "label": "terror"
+  },
+  {
+    "text": "The caliphate demands surrender or face a terror campaign.",
+    "label": "terror"
+  },
+  {
+    "text": "Guerrilla forces will attack civilian infrastructure next week.",
+    "label": "terror"
+  },
+  {
+    "text": "Our holy war against the infidels begins with this attack.",
+    "label": "terror"
+  },
+  {
+    "text": "Pay 5 bitcoin to this address or we will release your private photos.",
+    "label": "extortion"
+  },
+  {
+    "text": "Transfer $10,000 or we will expose your secrets to the public.",
+    "label": "extortion"
+  },
+  {
+    "text": "We have your data. Send cryptocurrency or everything gets leaked.",
+    "label": "extortion"
+  },
+  {
+    "text": "Pay the ransom within 48 hours or your files will be deleted.",
+    "label": "extortion"
+  },
+  {
+    "text": "We know what you did. Pay us or your family finds out.",
+    "label": "extortion"
+  },
+  {
+    "text": "Send BTC to this wallet or we will release the video.",
+    "label": "extortion"
+  },
+  {
+    "text": "Your company data has been encrypted. Pay to get it back.",
+    "label": "extortion"
+  },
+  {
+    "text": "Wire transfer $50,000 by tomorrow or we release the information.",
+    "label": "extortion"
+  },
+  {
+    "text": "We will blackmail you unless you transfer funds immediately.",
+    "label": "extortion"
+  },
+  {
+    "text": "Pay up or face the consequences. This is your only warning.",
+    "label": "extortion"
+  },
+  {
+    "text": "We have compromising evidence. Send money or it goes public.",
+    "label": "extortion"
+  },
+  {
+    "text": "Your accounts have been hacked. Pay ransom to prevent exposure.",
+    "label": "extortion"
+  },
+  {
+    "text": "Unless you pay $20,000 we will destroy your reputation.",
+    "label": "extortion"
+  },
+  {
+    "text": "Time is running out. Send the cryptocurrency or suffer the consequences.",
+    "label": "extortion"
+  },
+  {
+    "text": "We have been watching you. Pay or your secrets are revealed.",
+    "label": "extortion"
+  },
+  {
+    "text": "Extortion notice: pay by midnight or face public humiliation.",
+    "label": "extortion"
+  },
+  {
+    "text": "Your private communications have been intercepted. Pay us.",
+    "label": "extortion"
+  },
+  {
+    "text": "If you don't transfer money we will contact your employer.",
+    "label": "extortion"
+  },
+  {
+    "text": "We demand payment or your personal data will be sold.",
+    "label": "extortion"
+  },
+  {
+    "text": "You have 24 hours to send bitcoin or we expose everything.",
+    "label": "extortion"
+  },
+  {
+    "text": "I know where you live and I am watching you every day.",
+    "label": "harassment"
+  },
+  {
+    "text": "You cannot hide from me. I will find you wherever you go.",
+    "label": "harassment"
+  },
+  {
+    "text": "I am following your children to school every morning.",
+    "label": "harassment"
+  },
+  {
+    "text": "Your family is not safe. I am watching your house.",
+    "label": "harassment"
+  },
+  {
+    "text": "You will regret what you did to me. I am coming for you.",
+    "label": "harassment"
+  },
+  {
+    "text": "I know your daily schedule and where your kids go to school.",
+    "label": "harassment"
+  },
+  {
+    "text": "You cannot escape me. Nowhere is safe for you.",
+    "label": "harassment"
+  },
+  {
+    "text": "I have been stalking you for months and you haven't noticed.",
+    "label": "harassment"
+  },
+  {
+    "text": "Your children are in danger if you don't do what I say.",
+    "label": "harassment"
+  },
+  {
+    "text": "I will intimidate you until you comply with my demands.",
+    "label": "harassment"
+  },
+  {
+    "text": "I am watching you right now through your window.",
+    "label": "harassment"
+  },
+  {
+    "text": "You made a mistake crossing me. I will make you pay for this.",
+    "label": "harassment"
+  },
+  {
+    "text": "Your family will suffer the consequences of your actions.",
+    "label": "harassment"
+  },
+  {
+    "text": "I know your home address, your work address, and your car.",
+    "label": "harassment"
+  },
+  {
+    "text": "You cannot get a restraining order that will stop me.",
+    "label": "harassment"
+  },
+  {
+    "text": "I will bully you online and offline until you break.",
+    "label": "harassment"
+  },
+  {
+    "text": "Everyone you love is being watched. Do what I say.",
+    "label": "harassment"
+  },
+  {
+    "text": "You thought you were safe but I am right outside your door.",
+    "label": "harassment"
+  },
+  {
+    "text": "I will make your life miserable until you give me what I want.",
+    "label": "harassment"
+  },
+  {
+    "text": "Coming for you tonight. Make sure your doors are locked.",
+    "label": "harassment"
+  },
+  {
+    "text": "I am going to shoot up the school tomorrow morning.",
+    "label": "school_threat"
+  },
+  {
+    "text": "There will be a school shooting at Central High on Friday.",
+    "label": "school_threat"
+  },
+  {
+    "text": "Students at the university will die in the attack next week.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I have weapons and I am planning a Columbine-style attack.",
+    "label": "school_threat"
+  },
+  {
+    "text": "The campus bomb will go off during the morning assembly.",
+    "label": "school_threat"
+  },
+  {
+    "text": "All students in the classroom will be killed at 9 AM.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I have a gun and I am bringing it to school tomorrow.",
+    "label": "school_threat"
+  },
+  {
+    "text": "The school attack has been planned for months. No one can stop it.",
+    "label": "school_threat"
+  },
+  {
+    "text": "We will carry out a mass shooting at the college campus.",
+    "label": "school_threat"
+  },
+  {
+    "text": "There is a bomb inside the school building. Evacuate now.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I hate everyone at this school and I will make them pay.",
+    "label": "school_threat"
+  },
+  {
+    "text": "Students and teachers will not survive Monday morning.",
+    "label": "school_threat"
+  },
+  {
+    "text": "The school massacre will begin at first period.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I planted explosives in the gymnasium. School bomb threat.",
+    "label": "school_threat"
+  },
+  {
+    "text": "University campus attack planned for graduation ceremony.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I am going to attack the school with weapons I have collected.",
+    "label": "school_threat"
+  },
+  {
+    "text": "The shooting at our school will be worse than Columbine.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I will kill everyone in my classroom before the day is over.",
+    "label": "school_threat"
+  },
+  {
+    "text": "School threat: armed individual planning attack on campus.",
+    "label": "school_threat"
+  },
+  {
+    "text": "I have been planning this school attack for over a year.",
+    "label": "school_threat"
+  }
+]

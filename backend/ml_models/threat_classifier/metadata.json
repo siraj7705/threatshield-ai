@@ -1,0 +1,42 @@
+{
+  "model_type": "ensemble_v2",
+  "ensemble_members": [
+    "logreg",
+    "xgboost",
+    "random_forest"
+  ],
+  "labels": [
+    "safe",
+    "bomb_threat",
+    "violence",
+    "terror",
+    "extortion",
+    "harassment",
+    "school_threat"
+  ],
+  "label2id": {
+    "safe": 0,
+    "bomb_threat": 1,
+    "violence": 2,
+    "terror": 3,
+    "extortion": 4,
+    "harassment": 5,
+    "school_threat": 6
+  },
+  "id2label": {
+    "0": "safe",
+    "1": "bomb_threat",
+    "2": "violence",
+    "3": "terror",
+    "4": "extortion",
+    "5": "harassment",
+    "6": "school_threat"
+  },
+  "training_samples": 751,
+  "test_accuracy": 0.6423841059602649,
+  "logreg_accuracy": 0.7218543046357616,
+  "xgboost_accuracy": 0.6158940397350994,
+  "random_forest_accuracy": 0.6556291390728477,
+  "cv_accuracy_mean": 0.7376247240618101,
+  "cv_accuracy_std": 0.04258696303840375
+}

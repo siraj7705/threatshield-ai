@@ -1,0 +1,3226 @@
+[
+    {
+        "text": "Quite independently from testing and tuning the algorithm, I'd like to think about deployment. Eventually, individuals and postmasters should be able to download a spambayes software distribution, answer a few configuration questions about their mail setup, training and false positives, and install it as a filter. A more modest initial goal might be the production of a tool that can easily be used by individuals (since we're more likely to find individuals willing to risk this than postmasters).",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I recently stumbled across the contents of the journal, \"Electronic Publishing\", which was published from January, 1988 through December, 1995. All papers are available online in PDF (this was apparently one of the first journals to disseminate in PDF, in 1994). The journal also reprints some of the better papers from the Electronic Publishing conferences, held bi-yearly from 1986-1992 (EP86, EP88, EP90, EP92). http://cajun.cs.nott.ac.uk/compsci/epo/papers/epoddtoc.html Today's reader might look",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Title page has a login screen and I can't seem to get the apt indexes anymore. Is it just me or is something going on there? -- Additive E120 - \"not suitable for vegetarians\". http://www.bryngollie.freeserve.co.uk/E120.htm",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://scriptingnews.userland.com/backissues/2002/09/24#When:11:41:50AM Date: Tue, 24 Sep 2002 18:41:50 GMT News.Com[1]: \"Linux is a serious competitor,\" said Ballmer. [1] http://rss.com.com/2100-1001-959165.html?type=pt&part=rss&tag=feed&subj=news",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "having great fun trying to find a dumb ADSL modem with Ethernet presentation, everybody wants to sell routers but I intend on doing pppoe from another device, something with more than one Ethernet port would be nice. anybody got any recommendations ? Uly ----- Original Message ----- From: <joefitz@netsoc.ucd.ie> To: <decdelmur@iol.ie> Cc: <ilug@linux.ie> Sent: Monday, October 07, 2002 10:35 AM Subject: Re: [ILUG] adsl router modem combo information. -- Irish Linux Users' Group: ilug@linux.ie htt",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Robert Harley: It was clear you were talking about averages. But it should be equally clear that that isn't what people mean when they use the word \"promiscuity\". Not at all. There are still people who only have one partner. There are many more whoe only have one partner over \"long\" periods of time. So it is far from \"vacuous\" to describe some people as \"promiscuous\" and others as \"not promiscuous\", especially over a set period. (\"He was promiscuous in college. He is no longer promiscuous.\") The",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Are you free Saturday? We're having a few people over.",
+        "label": "safe"
+    },
+    {
+        "text": "trying to report spam [razor chooses hubris] I timeout on the connection (which seems to have gotten slower all morning) and receive the following error message: razor-report error: connect4: nextserver: discover1: Error reading socket connect4: nextserver: discover1: Error reading socket I then try to run razor-admin -discover and receive the same error ..... problems with the servers today? only one discovery server? Sven ------------------------------------------------------- This sf.net emai",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have a couple of small issues, and I'm not sure if their exmh issues or my setup issues. First, when I try and run exmh with wish from tk8.4.0 it seems to take forever to start, but with wish from tk8.a.4 it starts in a snap. Using the latest CVS, when I open exmh and the folder I'm in has unseen messages and I hit next, exmh changes to the next folder with unseen messages rather than to the first unseen in the current folder. Finally, when I reach the end of the messages in a folder and go on",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Guerrilla forces will attack civilian infrastructure next week.",
+        "label": "terror"
+    },
+    {
+        "text": "Whore eructed: Exsqueeze me, but what part of \"I don't know if it's true or not\" did you fail to grok? I personally doubt it simply because I never heard of Bush and Chirac going to Brighton. Next time I hear a joke, I promise not to laugh until I have checked out primary sources for confirmation in triplicate, OK? Good thing we have you around to keep us on the straight and narrow, all the while inundating us with such erudite profundities as \"Kill your idols folks\", \"fight the powers that be, ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The device I installed yesterday has a timer. You have until noon.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "We are armed and ready to attack your headquarters tonight.",
+        "label": "violence"
+    },
+    {
+        "text": "On Thu, 2002-08-29 at 01:06, Matthias Saou wrote: Ah! The mixer stuff was what made me look for an init script in the first place, I didn't bother to check whether the existing stuff would have worked with that. Will try that out, you can assume silence == success :) Agreed. Though with only 2 hours experience... -- \\/ille Skytt\ufffd ville.skytta at iki.fi _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-li",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "There's no point calling the police. The device goes off either way.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "No one's going to want to come to school after what I do tomorrow.",
+        "label": "school_threat"
+    },
+    {
+        "text": "You might want to reach out to me before I reach out to your family.",
+        "label": "extortion"
+    },
+    {
+        "text": "There will be consequences and you'll feel every one of them.",
+        "label": "violence"
+    },
+    {
+        "text": "No warning will be given to the public. That is intentional.",
+        "label": "terror"
+    },
+    {
+        "text": "You owe me an explanation and I'm not going away until I get one.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your password reset request has been received.",
+        "label": "safe"
+    },
+    {
+        "text": "Heads up \u2014 the server maintenance window is tonight from 2\u20134 AM.",
+        "label": "safe"
+    },
+    {
+        "text": "-----BEGIN PGP SIGNED MESSAGE----- CERT Advisory CA-2002-21 Vulnerability in PHP Original release date: July 22, 2002 Last revised: -- Source: CERT/CC A complete revision history can be found at the end of this file. Systems Affected * Systems running PHP versions 4.2.0 or 4.2.1 Overview A vulnerability has been discovered in PHP. This vulnerability could be used by a remote attacker to execute arbitrary code or crash PHP and/or the web server. I. Description PHP is a popular scripting language ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "E-mail error You're subscribed to the HTML version of the Daily Dilbert, which shows the comic strip as a graphic, but your mail system either can't support HTML or is set up to remove HTML content. For more information, contact your Internet service provider or mail system administrator. To change to a plain text subscription, modify your account preferences at http://www.dilbert.com/comics/dilbert/daily_dilbert/html/login.html The plain text option appears toward the bottom of the modification",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The timer is counting down. The bomb will detonate in 30 minutes.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/215,0,215/ Date: 2002-10-03T04:21:07+01:00 Washington has revealed its intention to use UN weapons inspections as a possible first step towards a military occupation of Iraq.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You will pay with your blood for betraying us.",
+        "label": "violence"
+    },
+    {
+        "text": "The nerve agent has been synthesized. The attack is imminent.",
+        "label": "terror"
+    },
+    {
+        "text": "I have searched the list but did not find any info on this. How do I setup multiple spamd machines so that spamc load balances - or anything similar? Duane. ------------------------------------------------------- This sf.net email is sponsored by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf _______________________________________________ Spamassassin-devel mailing list Spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "K> Planning battle tactics; for this reason, the intelligence K> press reports, spy satellites have had 1-meter resolution for K> many years. The military already have these spy satellites; they are basically Hubble pointed the other way, so I doubt they will be a big enough customer of this service to justify a next-generation wireless network rollout for the rest of us. K> Finding an individual vehicle in a city might occasionally be K> possible with 1-m images and might occasionally also be w",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "On Fri, Sep 06, 2002 at 11:32:01AM -0500, Josh Hildebrand wrote: you look to have 2 versions of spamd installed. The one running from the RC script is pre-2.4 (there is a -H now, and -F has been removed), but the one you run from the commandline seems to be a 2.4x version. I would find that old version of SA and blow it away. -- Randomly Generated Tagline: \"If you lend someone $20, and never see that person again, it was probably worth it.\" - Zen Musings",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Join us for the company picnic this Saturday.",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-6,6503039,159/ Date: 2002-08-03T08:11:17+01:00 Back when 64KB was more memory than any computer would ever need, there was a time when memory managers didn\ufffdt exist. But gradually, new computer systems came out with larger amounts of memory and designers discovered ways to eat up RAM faster than any system could dish it out. This discussion is based on Tiburon's experiences in writing and rewriting the memory manager for Madden NFL 97 to Madden NFL 2002.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have rigged the building with explosives. This is your only warning.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Pay what you owe or the explosive I hid in the warehouse goes off tonight.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "If this deal falls through I'm going to lose my mind.",
+        "label": "safe"
+    },
+    {
+        "text": "<html> <head> <title>Tech Update Today</title> </head> <body style=\"margin:8px 9px 9px 12px\" bgcolor=\"#ffffff\" background=\"http://techupdate.zdnet.com/techupdate/i/bg_232850.gif\" link=\"#003399\" alink=\"#cc0000\" vlink=\"#666699\"> <div align=\"center\"> <!-- main --> <a name=\"top\"></a> <table width=612 bgcolor=\"#232850\" cellpadding=0 cellspacing=0 border=0> <tr valign=bottom> <td width=440 colspan=4><a href=\"http://clickthru.online.com/Click?q=ab-ZcQKQYpdiyTdfwrXydit0M-0OvrR\" ><img src=\"http://www.zdn",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been a bit busy wiring things up in your basement. You'll find out soon.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "\"Adam L. Beberg\" wrote: /me raises hand. Send me the source. R",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You made a mistake crossing me. I will make you pay for this.",
+        "label": "harassment"
+    },
+    {
+        "text": "You need to crush this presentation \u2014 the board expects a lot.",
+        "label": "safe"
+    },
+    {
+        "text": "On Wednesday, August 28, 2002, at 01:50 PM, Robin Lynn Frank wrote: Header forgeries are trivially easy to detect. The main way that spammers hide their originating IPs is not by forging headers, but by sending through open proxy servers. It used to be that spammers used open relay mailserver, but these often betray the originating IP, and the proliferation of open relay blocklists, and the introduction of port 25 blocking on the part of many ISPs make open relays unattractive to spammers. One w",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The operation goes live at the signal. Targets have been identified.",
+        "label": "terror"
+    },
+    {
+        "text": "A bomb will detonate at noon unless our demands are met.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Please find the attached invoice for your review.",
+        "label": "safe"
+    },
+    {
+        "text": "The school massacre will begin at first period.",
+        "label": "school_threat"
+    },
+    {
+        "text": "URL: http://boingboing.net/#85534710 Date: Not supplied At the OS X conference, Cory told me about a book called \"The Life and Death of the Great American Cities,\" by Jane Jacobs. This Metropolis Magazine comic strip, by Ben Katchor, seems to resonate with what Cory told me about the book -- that cities die because mixed used areas are changed into single use areas. Link[1] Discuss[2] [1] http://metropolismag.com/html/content_1002/ben/ben_a.html [2] http://www.quicktopic.com/16/H/uUSrEeEuxYWe",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've already told your colleagues what I know about you.",
+        "label": "harassment"
+    },
+    {
+        "text": "I have been trying to research via SA mirrors and search engines if a canned script exists giving clients access to their user_prefs options via a web-based CGI interface. Numerous ISPs provide this feature to clients, but so far I can find nothing. Our configuration uses Amavis-Postfix and ClamAV for virus filtering and Procmail with SpamAssassin for spam filtering. I would prefer not to have to write a script myself, but will appreciate any suggestions. ----------------------------------------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been forwarding your private messages to a list of people.",
+        "label": "harassment"
+    },
+    {
+        "text": "The janitor's closet on the second floor has been unlocked for two weeks.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Thu, 19 Sep 2002, Bill Stoddard wrote: --]How likely are you to change someone's mind by being --]rude and disrespectful to them? Is this how to win friends and influence --]people? Point the first, I doubt if they are trying to change Rumsy's mind but rather to show others that there is a vocal and violent opposition to his views. With such flagrant showings of opposition there would be more coverage of the opposing ideas and thus the spreading of the dissenting meme. A viri need not comply ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Just curious if subject line capitalization can be used as an indicator. Either the percentage of characters that are caps.. Or, percentage starting with a capital letter (if number of words > xx) Brad Clements, bkc@murkworks.com (315)268-1000 http://www.murkworks.com (315)268-9812 Fax AOL-IM: BKClements",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have some information about you that I'm sure you'd prefer stayed private.",
+        "label": "extortion"
+    },
+    {
+        "text": "We have placed C4 explosives throughout the stadium.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The brothers have confirmed: all cells are operational and standing by.",
+        "label": "terror"
+    },
+    {
+        "text": "You deleted the messages. We didn't.",
+        "label": "extortion"
+    },
+    {
+        "text": "URL: http://boingboing.net/#85512062 Date: Not supplied Hypocrites in the recording industry have been screaming about people stealing music. All the while, they've been robbing CD buyers. ...five of the largest U.S. distributors of pre-recorded music CDs and three large retailers agreed to pay millions of dollars in cash and free CDs as part of an agreement on price-fixing allegations. Link[1] Discuss[2] [1] http://blogcritics.org/archives/2002/09/30/123242.php#20020930123242 [2] http://www.qui",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Tell the brothers to hold position until the signal at midnight.",
+        "label": "terror"
+    },
+    {
+        "text": "We will detonate the device if our demands are not met in 2 hours.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "http://yorkshirepost.co.uk/ed/front/481722 Pro-hunt activists target top sight ONE of Yorkshire's most famous sights yesterday became one of the first targets in bizarre attacks on White Horse landmarks linked to the hunting debate. Villagers near Thirsk could not believe their eyes when they woke yesterday to find the famous White Horse of Kilburn had acquired a rider during the night. In another incident, the Uffington white horse in Oxfordshire had a huntsman and three hounds added to the anc",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've kept every message you sent me. They won't help you.",
+        "label": "violence"
+    },
+    {
+        "text": "The thing about silence is that it has a price. I'm telling you that price.",
+        "label": "extortion"
+    },
+    {
+        "text": "http://www.hughes-family.org/bugzilla/show_bug.cgi?id=1012 ------- Additional Comments From easmith@beatrice.rutgers.edu 2002-09-21 16:41 ------- I like this idea, but from my reading - part of my dissertation research - on GAs (or, in this case, more precisely \"Evolutionary Programming\", since the parameters are non-binary and the major operator is mutation, not crossover), you do need to keep in mind that the more interactions there are between different variables, the better-tweaked the GA/EA",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "There's a package under the main stairwell you really don't want to ignore.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I heard from someone that there's a plan to shoot up the school Friday.",
+        "label": "school_threat"
+    },
+    {
+        "text": "We will carry out a mass shooting at the college campus.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Enjoy the weekend because it might be your last.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-1,8622125,215/ Date: 2002-10-07T03:52:51+01:00 *Football:* Ugo Ehiogu will stand in for Rio Ferdinand following his sudden and unexpected withdrawal from the England squad.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Some emails got forwarded to me accidentally. I think you know which ones.",
+        "label": "extortion"
+    },
+    {
+        "text": "The device I placed is not visible. The scanner won't catch it.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "For anyone to fully bury global warming, they would have to bury the Greens. A Green once said that if the Spotted Owl hadn't existed they would have had to invent it. So it is with global warming. Their fundamental opposition isn't to a warmer earth, it is to industrial civilization. The fact that the sattelites didn't match what the global warming theorists said should be there is old news. The news here is that the temperature measures via sattelite have gotten even better and they have been ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "On Thu, Sep 19, 2002 at 11:11:47AM -0400, Bill Stoddard wrote: Are you kidding? It was fucking BRILLIANT. Do you know what exposure that got them? They sat perfectly so that the cameras could focus on the mildly exasperated Rumsfeld and their \"UN Inspections not war\" banner. That picture will be dominating the news cycles in China, Iraq, Russia, Germany, and France, at least. For goodness sakes, you're arguing about it on FoRK. In politics by sound-bite, those two rude hags kicked ass and took n",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'm not doing this for attention. I'm doing this because they deserve it.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Tue, 20 Aug 2002, Matthew Cline wrote: They may be in for a patent fight before any of this goes forward: http://www.eweek.com/article2/0,3959,476558,00.asp \"Banking on the fact that few enterprises sending commercial mail want to be associated with spam, IronPort Systems Inc., in San Bruno, Calif., has developed the Bonded Sender program in an effort to give legitimate bulk e-mailers some credibility.\" ------------------------------------------------------- This sf.net email is sponsored by:",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Our demands are simple. Meet them or the device in locker 14 activates.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Our CEO is on the warpath about the missed deadline.",
+        "label": "safe"
+    },
+    {
+        "text": "The shooting at our school will be worse than Columbine.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The access I have to your systems is still live. Pay before I use it.",
+        "label": "extortion"
+    },
+    {
+        "text": "Tell your boss we're serious. There's a reason we've been watching the building.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The faithful are ready to strike the enemies of the faith.",
+        "label": "terror"
+    },
+    {
+        "text": "On Mon, 26 Aug 2002, Jim Whitehead wrote: --]a sledgehammer)? We hadn't done anything unusual to the toilet in the recent --]past -- just normal use. I've *never* heard of this happening to anyone I --]know. The guts, yeah, they fail all the time. But the storage bowl -- never. --] Do you have any Tesla nuts inthe hood? Them hooligans and thier beams.. http://xent.com/mailman/listinfo/fork",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been holding onto this material for a while. I'd like to discuss terms.",
+        "label": "extortion"
+    },
+    {
+        "text": "I found your home through your running app. You should turn that off.",
+        "label": "harassment"
+    },
+    {
+        "text": "Ignoring me just makes things worse. You know what I'm capable of.",
+        "label": "harassment"
+    },
+    {
+        "text": "There is an IED hidden in the parking lot. Evacuate now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://diveintomark.org/archives/2002/10/02.html#insanely_complicated Date: 2002-10-02T09:34:51-05:00 _Ian Hickson_: My faceless enemy has been defeated[1]. &#8220;My arch nemesis over the last couple of weeks has been the very poorly documented Hebrew Traditional Numbering System.&#8221; [1] http://ln.hixie.ch/?start=1033524738&count=1",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The dirty bomb is ready. The infidels will suffer.",
+        "label": "terror"
+    },
+    {
+        "text": "We smashed our sales targets this quarter!",
+        "label": "safe"
+    },
+    {
+        "text": "Your streaming subscription has been renewed.",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8418829,215/ Date: 2002-10-01T04:33:55+01:00 *Arts:* The long-running dispute between the widow of Kurt Cobain and the remaining two members of his band Nirvana has been settled, paving the way for a new CD.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your family will suffer the consequences of your actions.",
+        "label": "harassment"
+    },
+    {
+        "text": "Thanks for dinner last night, it was really lovely.",
+        "label": "safe"
+    },
+    {
+        "text": "Your company data has been encrypted. Pay to get it back.",
+        "label": "extortion"
+    },
+    {
+        "text": "Date: Wed, 21 Aug 2002 10:54:46 -0500 From: Chris Garrigues <cwg-dated-1030377287.06fa6d@DeepEddy.Com> Message-ID: <1029945287.4797.TMDA@deepeddy.vircio.com> | I can't reproduce this error. For me it is very repeatable... (like every time, without fail). This is the debug log of the pick happening ... 18:19:03 Pick_It {exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace} {4852-4852 -sequence mercury} 18:19:03 exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 485",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Hmm - I'm cc'ing the exmh-workers list, because I really don't know much about the various PGP interfaces. I think there has been some talk about \"issues\" with the latest version of gpg. > version 2.5 08/15/2002 > Linux habitrail.home.fools-errant.com 2.4.7-10smp #1 SMP Thu Sep 6 17:09:31 > EDT 2001 i686 unknown > Tk 8.3 Tcl 8.3 > > It's not clear to me this is a bug with exmh per se, but it's something that > manifests through exmh, so I figured asking you might help me track it down. > > When ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your family's social media is very informative. Especially your mother's.",
+        "label": "harassment"
+    },
+    {
+        "text": "Our network spans twelve cities. Tonight we strike.",
+        "label": "terror"
+    },
+    {
+        "text": "I'd keep your kids home on Thursday if I were you.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Mon, 2 Sep 2002, Reza B'Far (eBuilt) wrote: OK, noone has been tool-less for memory management for a LONG time. Most systems you just add a flag and memory is tracked (that's how i've always done it) or worst case yuo have to run it through one of the 2.3E7 tools where you simply recompile and it it tells you where the leaks are. Memory management is a non-issue for anyone that has any idea at all how the hardware functions. Granted, this takes 30 minutes to go over, and so is far beyond the ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've recruited one other person. We have a plan.",
+        "label": "school_threat"
+    },
+    {
+        "text": "That's a nice apartment on the 4th floor. East-facing, right?",
+        "label": "harassment"
+    },
+    {
+        "text": "After my latest cvs up, timtest fails with Traceback (most recent call last): File \"/home/skip/src/spambayes/timtest.py\", line 294, in ? drive(nsets) File \"/home/skip/src/spambayes/timtest.py\", line 264, in drive d = Driver() File \"/home/skip/src/spambayes/timtest.py\", line 152, in __init__ self.global_ham_hist = Hist(options.nbuckets) AttributeError: 'OptionsClass' object has no attribute 'nbuckets' I'm running it as timtest -n5 > Data/timtest.out from my ~/Mail directory (not from my ~/src/spa",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "My boss is going to kill me if I miss another deadline.",
+        "label": "safe"
+    },
+    {
+        "text": "I am watching you right now through your window.",
+        "label": "harassment"
+    },
+    {
+        "text": "URL: http://diveintomark.org/archives/2002/10/08.html#teach_a_man_to_fish Date: 2002-10-08T00:22:08-05:00 _Kevin Hemenway_: Finding More Channels[1]. &#8220;In simple terms, there are thousands of web sites that are actively providing their news and headlines in a format AmphetaDesk can understand [RSS]. And while AmphetaDesk knows about a good number of these sites, it'd be impossible to hunt down each and every single possibility. So, this page is here to teach you how to fish.&#8221; [1] http",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "<!DOCTYPE -//w3c//dtd 4.01 html http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd public transitional//en> <HTML><HEAD> <META http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"> <meta name=GENERATOR content=\"messageREACH intelliSEND Wizard 3.0.2.7\"> <meta name=ProgId content=\"intelliSEND_Wizard.Editor.Document\"> </HEAD> <BODY style=\"FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial\" bgcolor=\"#ffffff\">Bitte beachten Sie die Angebote unserer Werbepartner.<br> Diese erm\ufffdglic",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "There will be a school shooting at Central High on Friday.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Gary Funck <gary@intrepid.com> [2002-09-18 13:57:00 -0700]: I think perhaps you missed the fact that SA scores are adjustable. If you want SA to tag all messages listed in Razor then you can put this in your ~/.spamassassin/user_prefs file. score RAZOR_CHECK 10 The default score is 3 and the default threshold needed is 5. Therefore if you wish to have any razor listed messages tagged by SA then setting a score for any razor listed messages to anything above 5 would be sufficient. If you are alre",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://www.mozillazine.org/weblogs/hyatt/#85443744 Date: Not supplied I just finished reading an article about Mozilla[1] for Salon.com[2]. This excerpt was rather amusing. _It is a good question, because in almost every way, Mozilla is a better browser than Navigator. For example, Netscape's best new feature, tabbed browsing -- which lets you have several Web pages open in the same browser window, and allows you to bookmark all the pages under one name -- was in Mozilla many months ago, an",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "God willing, the operation kills hundreds and paralyzes the city.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://jeremy.zawodny.com/blog/archives/000204.html Date: 2002-09-30T20:42:06-08:00 An article titled Mac poses as much of challenge to Linux as to Windows is both insightful and missing the point. The general thrust of the article, is dead-on. It's just the sort of stuff I've been saying to folks...",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have been stalking you for months and you haven't noticed.",
+        "label": "harassment"
+    },
+    {
+        "text": "Everyone in that school is going to remember my name.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Keep ignoring my emails. We'll settle this in person.",
+        "label": "violence"
+    },
+    {
+        "text": "We have placed explosives in the terminal. You have one hour.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The parking garage will be closed for resurfacing this weekend.",
+        "label": "safe"
+    },
+    {
+        "text": "Cliped from the latest CERT.org warning list: ----------------------------------------------------------------------------------------------- \"I. Description The CERT/CC has received confirmation that some copies of the source code for the Sendmail package have been modified by an intruder to contain a Trojan horse. The following files were modified to include the malicious code: sendmail.8.12.6.tar.Z sendmail.8.12.6.tar.gz These files began to appear in downloads from the FTP server ftp.sendmai",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your bank statement for last month is now available.",
+        "label": "safe"
+    },
+    {
+        "text": "I followed you to the restaurant last Thursday. The risotto looked good.",
+        "label": "harassment"
+    },
+    {
+        "text": "Someone left something in the food court that shouldn't be there. Tick tick.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I put a note in my will about what I'm going to do.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I know exactly where you park your car. You won't make it home.",
+        "label": "violence"
+    },
+    {
+        "text": "On 27 Aug 2002 at 15:00, Rohit Khare wrote: Intel also had a similar device a couple of years ago (Netstructure). They have, afaik, abandoned it. Intel is still in the XML hardware game though. On 8/19 they spun off a company named Tarari. Tarari develops hardware to check the headers of IP packets. Tarari calls this Layer 7 processing (atop the OSI model). From what I can tell, Tarari plans to combine virus scanning and XML acceleration into a single hardware device.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I put something in my locker that my teacher is going to wish I hadn't.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Date: Tue, 27 Aug 2002 18:08:12 -0700 From: Brent Welch <welch@panasas.com> Message-ID: <200208280108.VAA30178@blackcomb.panasas.com> | If we are allowed to assume 8.2 or higher, which we can't really, then | we could add [...] | to the SelectTypein procedure. Yes, I looked at \"fixing\" it there, but that code is really quite general, with almost no understanding of what anything means, so I didn't think that corrupting it with knowlwedge of the semantics of what it is fetching would really be th",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "One transfer. Two accounts. No one ever finds out. Your choice.",
+        "label": "extortion"
+    },
+    {
+        "text": "Our martyrs have recorded their final messages. They are at peace.",
+        "label": "terror"
+    },
+    {
+        "text": "The annual performance review cycle begins next month.",
+        "label": "safe"
+    },
+    {
+        "text": "Thanks Paul, That is the way I am doing right now, but I would like to NOT use the mouse for such things. Any other clue? -- Saludos, Ulises Speaking words of wisdom ... _______________________________________________ Exmh-users mailing list Exmh-users@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-users",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I thought I'd installed razor correctly, but I am seeing the following in my logs. Can anyone give me a hitn? Sep 8 06:46:45 omega spamd[6514]: razor2 check skipped: No such file or directory Can't locate object method \"new\" via package \"Net::DNS::Resolver\" (perhaps you forgot to load \"Net::DNS::Resolver\"?) at (eval 31) line 1, <STDIN> line 114. ^I...propagated at /usr/lib/perl5/site_perl/5.6.1/Mail/SpamAssassin/Dns.pm line 392, <STDIN> line 114. -- Robin Lynn Frank Paradigm-Omega, LLC =========",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The sleeper assets have been activated. The event will not be stopped.",
+        "label": "terror"
+    },
+    {
+        "text": "You're going down at poker night, I've been practicing.",
+        "label": "safe"
+    },
+    {
+        "text": "I'll be OOO next week, please reach out to Sarah in my absence.",
+        "label": "safe"
+    },
+    {
+        "text": "Radicalized members of our group have infiltrated the facility.",
+        "label": "terror"
+    },
+    {
+        "text": "The insurgents are ready to strike the power grid.",
+        "label": "terror"
+    },
+    {
+        "text": "It might be, don't think anyone tried it yet. Yes ;) first off, redhat does not support upgrading from beta's to the released version. That doesn't mean it can't work, it means nobody tried it, they sure didn't test it or fix anything to make it work, and you're on your own. second, historically a new .0 numbers mostly means \"so much has been changed that you might have problems upgrading from any previous release anyway\". So, historically, most users installing a .0 release do this from scratch",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The vehicle is loaded. The driver is committed to the cause.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-4,6436947,159/ Date: 2002-08-01T09:04:55+01:00 This feature, excerpted from Wolfgang Engel's ShaderX book from Wordware Publishing, presents a simple shader trick that performs a good per pixel approximation of a non-integer power function. The technique works for input values between 0 and 1 and supports large exponents. The presented shader does not require any texture look-up and is scalable, making it possible to spend more instructions in order to decre",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Once upon a time, Brian wrote : We all learned that sooner or later, right? When I got down to that myself is when I started redhat.aldil.org, now known as freshrpms.net ;-) Strange. Anyway, although I'd easily recommend upgrading 7.x to 7.3 using apt, I wouldn't for 7.x to 8.0 as they are C++ binary incompatible... and apt is entirely written in C++ and dynamically linked :-/ Still, that doesn't explain a core dump :-( Why \"search\"? There's more than enough to choose from here : http://freshrpm",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Hah. I guess she doesn't want everyone to know about all the kinky sex she and I have had. LOL C On Sat, 7 Sep 2002, Geege Schuman wrote: -- \"I don't take no stocks in mathematics, anyway\" --Huckleberry Finn",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "They suspended me for the last time. They're going to regret that.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The kids had so much fun at the party, thank you!",
+        "label": "safe"
+    },
+    {
+        "text": "Theo Van Dinter said: ah, OK. didn't see that. --j. ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Spamassassin-devel mailing list Spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been planning this for eight months. I'm ready.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Owne Byrne: Despite that, this is how a lot of couples meet. People tease me about Carolyn, that I just hired a lot of software engineering babes, and then chose the one I liked best. ;-) _________________________________________________________________ Send and receive Hotmail on your mobile device: http://mobile.msn.com",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your customer database is in our hands. The cost to keep it private is $100,000.",
+        "label": "extortion"
+    },
+    {
+        "text": "The hospital has been selected deliberately. Maximum impact.",
+        "label": "terror"
+    },
+    {
+        "text": "Damn, this thing is slick. Someone seems to have done a very complete QA test on it; yesterday I installed it for the first time on an old Celeron box. Sure, parts of it were slow, but compared to my more modern machine, everything is. It was good; a beautiful interface that legions of 'sheep' can look at and say \"Cool; I can understand this\" and leave their shackles behind. :) I was struck by the massive amount of applications, both KDE and Gnome, intuitively seperated NOT by the Gnome/KDE name",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I will intimidate you until you comply with my demands.",
+        "label": "harassment"
+    },
+    {
+        "text": "I'd suggest settling this privately before it becomes a legal matter. Call me.",
+        "label": "extortion"
+    },
+    {
+        "text": "I know which apartment is yours without the buzzer.",
+        "label": "harassment"
+    },
+    {
+        "text": "I have a gun and I am bringing it to school tomorrow.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The coordinated strikes will bring the economy to its knees.",
+        "label": "terror"
+    },
+    {
+        "text": "Bro I'm going to wreck you at FIFA tonight.",
+        "label": "safe"
+    },
+    {
+        "text": "Just a reminder to submit your expense reports before month end.",
+        "label": "safe"
+    },
+    {
+        "text": "Happy birthday! Hope you have a wonderful day.",
+        "label": "safe"
+    },
+    {
+        "text": "I mailed something to your office. Don't let it sit in the mailroom.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "We will slaughter everyone at the event. No one will be spared.",
+        "label": "violence"
+    },
+    {
+        "text": "when brickbats or fox exposes the folly of government they do so to accomplish a specific end; dumping truckload after truckload of bad acts proves their point: stupidity and greed typify government, therefore any government is too much government. -----Original Message----- From: fork-admin@xent.com [mailto:fork-admin@xent.com]On Behalf Of John Hall Sent: Sunday, October 06, 2002 5:03 PM Cc: 'FoRK' Subject: RE: Our friends the Palestinians, Our servants in government. Yes, you read the links. S",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "About apt.conf there are these lines: --<snip>-- RPM { // Leave list empty to disable AllowedDupPkgs {\"^kernel$\"; \"kernel-smp\"; \"kernel-enterprise\"; }; HoldPkgs {\"kernel-source\"; \"kernel-headers\"; }; } --</snip>-- How do I tell apt hold all kernel packages? Can I use syntax like \"kernel*\"; ? And I don't quite understand what the part \"^kernel$\"; means? -- Peter _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listin",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The library book you requested is now available for pickup.",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.askbjoernhansen.com/archives/2002/09/12.html Date: 2002-09-12T23:03:40-08:00 If you've been in Los Angeles for long enough to read this sentence, chances are you've spent more time stuck in traffic than you would care to consider. That annoying fact of Southern California life is only going to become more annoying and more of a factor with time, which is the point of \"Car Trek,\" tonight's edition of \"By the Year 2000\" at 7:30 on KCET (Channel 28) [which] also looks at the phenome",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA1 \"of\" was a typo Unbreakable would mean here that no one, even previously authorised entity, could use the system without paying the periodic subscription fee. It could be an online system that work 95% offline but poll frequently an offsite server. No mass production CDs, maybe mass personalised d/l like Sun JDK. Nothing is fixed yet, we are looking at the way a software can be protected from unauthorized utilisation. Is the use of \"trusted hardware\"",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You think you're untouchable. I'm going to prove you wrong, permanently.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8443955,1440/ Date: Not supplied A new internet worm marks a worrying crossover between virus writing and hacking, say experts",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We demand payment or your personal data will be sold.",
+        "label": "extortion"
+    },
+    {
+        "text": "I will stab you to death the next time I see you.",
+        "label": "violence"
+    },
+    {
+        "text": "Your backups have also been deleted. The only way to recover is to pay.",
+        "label": "extortion"
+    },
+    {
+        "text": "Don't go into work tomorrow. Trust me on this one.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "See if you can get a hold of that so we can do a level-playing-field competition. :-) --Guido van Rossum (home page: http://www.python.org/~guido/)",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You should really draw your blinds at night.",
+        "label": "harassment"
+    },
+    {
+        "text": "I am planning to carry out a massacre at the university.",
+        "label": "violence"
+    },
+    {
+        "text": "use Perl Daily Headline Mailer Perl Ports Page posted by hfb on Saturday August 31, @13:40 (cpan) http://use.perl.org/article.pl?sid=02/08/31/1744247 Copyright 1997-2002 pudge. All rights reserved. ====================================================================== You have received this message because you subscribed to it on use Perl. To stop receiving this and other messages from use Perl, or to add more messages or change your preferences, please go to your user page. http://use.perl.org/",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The academic discipline of Software Engineering was launched at a conference sponsored by NATO, at Garmisch, Germany, in October, 1968. Intriguingly, the term Software Engineering was chosen to be deliberately provocative -- why can't software be developed with the same rigor used by other engineering disciplines? The proceedings of this conference are now available online, at: http://www.cs.ncl.ac.uk/old/people/brian.randell/home.formal/NATO/index.html Also, don't miss the pictures of attendees",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-0,8613663,159/ Date: 2002-10-06T18:12:57+01:00 In our final round-up from the GDC Europe 2002, we review the confernece sessions and the ECTS expo, noting the spiraling increase in game complexity.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The new software update includes several bug fixes.",
+        "label": "safe"
+    },
+    {
+        "text": "The campus bomb will go off during the morning assembly.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I've been researching incidents at other schools. I know what works.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Fri Sep 13 2002 at 17:55, Robert Elz wrote: Not so odd, this issue came up several weeks ago (with no real resolution). Everything else :) I can't even mark text in an exmh message window and then paste it into a terminal window, the cut buffer seems to be completely empty (and its previous contents are no longer there either). BTW: talking of spring downunder... I'm in Queensland. It almost feels like early summer already (winters here are dry and warm, much better than cold wet miserable Me",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "There is a bomb inside the school building. Evacuate now.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Mon, Oct 07, 2002 at 11:05:21PM +0200, Matthias Saou wrote: It works very nice, would you consider upgrading it to 1.2.6 released only a few hours after your build? Thanks! On Tue, Oct 08, 2002 at 01:49:11PM +0200, Renaud Deraison wrote: -- Axel.Thimm@physik.fu-berlin.de _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The brothers are in position across all three target zones.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-5,8535461,215/ Date: 2002-10-04T02:39:04+01:00 Executive pay has once again outpaced average earnings, climbing an average of 17% last year.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The WMD attack will paralyze the entire city.",
+        "label": "terror"
+    },
+    {
+        "text": "A car bomb has been placed near the main entrance.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "This is a formal notice that sensitive records are in our possession.",
+        "label": "extortion"
+    },
+    {
+        "text": "Once upon a time, Mark wrote : [...] It works for me (it should works with or without the \"en\" subdirectory). Does it always give you the same error each time? Do you use an proxy server? [root@python root]# apt-get update Hit http://apt.freshrpms.net redhat/7.2/en/i386/base/srclist.os Hit http://apt.freshrpms.net redhat/7.2/en/i386 release.os Hit http://apt.freshrpms.net redhat/7.2/en/i386/base/srclist.updates Hit http://apt.freshrpms.net redhat/7.2/en/i386 release.updates Get:1 http://apt.fres",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Someone showed me a note. They mean it. You need to act today.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I have access to more of your life than you realize.",
+        "label": "harassment"
+    },
+    {
+        "text": "We are prepared to auction the data unless a private arrangement is reached.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've got nothing left to lose and you're going to find out what that means.",
+        "label": "violence"
+    },
+    {
+        "text": "The bomb is inside the government building. Evacuate immediately.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The strike on the water treatment plant will begin at 3 AM.",
+        "label": "terror"
+    },
+    {
+        "text": "The files are encrypted and backed up in four locations. Pay or lose them.",
+        "label": "extortion"
+    },
+    {
+        "text": "You've got maybe two days left if you keep this up.",
+        "label": "violence"
+    },
+    {
+        "text": "I'm writing to inform you that the device in your mailroom is active.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You'll understand what I meant by this email in a few days.",
+        "label": "violence"
+    },
+    {
+        "text": "That thing I left in the parking garage \u2014 I wouldn't stand near it.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The administration thinks they handled it. They didn't.",
+        "label": "school_threat"
+    },
+    {
+        "text": "URL: http://boingboing.net/#85517490 Date: Not supplied Mark and I were two of many wonderful contributors to a new book from TechTV, called \"The Catalog of Tomorrow.\" It's like a Whole Earth Catalog for futuristic technologies, with great illustrated spreads throughout -- you can get a peek inside at Amazon[1], and buy from Powell's or your other favorite indie store. Link[2] Discuss[3] (_Thanks, Andrew!_) [1] http://www.amazon.com/exec/obidos/tg/detail/-/0789728109/ref=lib_dp_TFCV/104-0366981-",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You might want to clear the building. I left a surprise for everyone.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You fired the wrong person. I'll make sure you regret that decision.",
+        "label": "violence"
+    },
+    {
+        "text": "By the time the authorities respond, it will already be done.",
+        "label": "terror"
+    },
+    {
+        "text": "The offshore account is known to me. It doesn't need to be known to others.",
+        "label": "extortion"
+    },
+    {
+        "text": "You laughed at our last message. The device in unit 3 isn't laughing.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You ruined my life so now I'm going to end yours.",
+        "label": "violence"
+    },
+    {
+        "text": "Let's see how your glass ceiling handles a little overpressure.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Your donation to the food bank has been received. Thank you.",
+        "label": "safe"
+    },
+    {
+        "text": "Unless you pay $20,000 we will destroy your reputation.",
+        "label": "extortion"
+    },
+    {
+        "text": "So then, Guido van Rossum <guido@python.org> is all like: Yeesh. Sounds like what you need is something to kick up once and score an entire mailbox. Wait a second... So *that's* why you wanted -u. If you can spare the memory, you might get better performance in this case using the pickle store, since it only has to go to disk once (but boy, does it ever go to disk!) I can't think of anything obvious to speed things up once it's all loaded into memory, though. That's profiler territory, and profi",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Check your server room. I was there yesterday for a reason.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Oh, I was serious. I'm awful with perl/etc. I just think the HTML graph that was created was pretty neat and I wish I could do something like that. :-) spam Take get non-GUI 120 136 101 138 132 ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Razor-users mailing list Razor-users@l",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "It would be a shame if certain people found out what you've been up to.",
+        "label": "extortion"
+    },
+    {
+        "text": "Because every time someone submitted a bug, they'd get a response saying \"Message is held for moderator because of implicit message destination\" or something like that. It annoyed users, it annoyed me, and Justin, you never actually got around to accepting the messages :-) -- Duncan Findlay ------------------------------------------------------- This sf.net email is sponsored by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf _______________________________________________ Spamassassin",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "http://www.thisislocallondon.co.uk/news/weird/display.var.633932.Bizarre+London.0.html An investigation has been launched after punch bags on sale in Greenwich were found to be stuffed with incontinence pads and bandages. Trading standards officers, working for Greenwich Council, were alerted to the situation after a Bryan punch bag, purchased in Argos, in Charlton Road, Charlton, was found to be full of bandages. Also stuffed inside the piece of sporting equipment was a letter from a woman in F",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Everyone at the conference will be killed. This is a warning.",
+        "label": "violence"
+    },
+    {
+        "text": "I've been parked outside your building for three evenings now.",
+        "label": "harassment"
+    },
+    {
+        "text": "The infidels will face jihad. The attack begins at dawn.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://diveintomark.org/archives/2002/10/08.html#in_praise_of_evolvable_formats Date: 2002-10-08T12:28:10-05:00 _Clay Shirky_: In Praise of Evolvable Systems[1]. This entire article could be rewritten to explain RSS. In fact, let's do that. If it were April Fool's Day, the Net's only official holiday, and you wanted to design a &#8220;novelty format&#8221; to slip by the W3C as a joke, it might look something like RSS 0.9x/2.0: - It would specify limits on data values, then remove them, the",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Gary Lawrence Murphy wrote: I had cited the information theoretic concept of \"elegance\" in my dissertation & did a Google to find the reference and instead found a really great tech report for UoT Knoxville by Bruce MacLennan. He cites Efficiency, Economy, and Elegance, but I think he's wrong. The middle E should be Effectiveness. Otherwise kudos. Efficiency is the relation of output to input effectiveness is the total output. In information theory, something is both elegant and efficient if no ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "My package bypassed security. I know because I watched it happen.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "We absolutely killed it in the pitch meeting today!",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://scriptingnews.userland.com/backissues/2002/09/23#When:8:11:28AM Date: Mon, 23 Sep 2002 15:11:28 GMT After posting my comment yesterday about next things[1] I want to do, I'm starting to get job offers. Hey I wasn't expecting that. But I like it I like it. Especially in this stinkin economy. On the other hand can you imagine _me_ with a job? \";->\" [1] http://scriptingnews.userland.com/backissues/2002/09/22#whatsNextForDave",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your accounts have been hacked. Pay ransom to prevent exposure.",
+        "label": "extortion"
+    },
+    {
+        "text": "On Mon, Sep 09, 2002 at 05:10:23PM -0400, Rob wrote: Yeah, the answer isn't here in this list, it's on the spamassassin-users list. I just asked it late last week. Hint: Add -H to the spamd startup flags using the latest version of spamassassin. -Dave ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 ____________________________",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Here are the minutes from yesterday's team meeting.",
+        "label": "safe"
+    },
+    {
+        "text": "Matt Kettler said: cheers! As Dan said -- it's a hard corpus, made harder without the spamtrap data. Also -- and this is an important point -- those measurements can't be directly compared, because I changed the methodology. In 2.40 the scores were evolved on the entire corpus, then evaluated using that corpus; ie. there was no \"blind\" testing, and the scores could overfit and still provide good statistics. In 2.42, they're evaluated \"blind\", on a totally unseen set of messages, so those figures",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Shipping update: your parcel is out for delivery today.",
+        "label": "safe"
+    },
+    {
+        "text": "We have exfiltrated 40GB of data before encrypting. Non-payment means publication.",
+        "label": "extortion"
+    },
+    {
+        "text": "<html> <head> <title>Shopper Newsletter: Alerts</title> </head> <body bgcolor=\"#EEEEEE\" alink=\"#0000FF\" vlink=\"#0000FF\"> <center> <A href=\"top\"></A><!-- header --> <table border=0 cellpadding=0 cellspacing=0 width=612 bgcolor=\"#ffffff\"> <tr valign=top> <td width=442 colspan=5> <img src=\"http://www.cnet.com/i/sh/nl/442_shopperALERT.gif\" width=\"442\" height=\"60\" border=\"0\" alt=\"CNET Shopper Newsletter Alerts\"><br> <table width=442 cellpadding=0 cellspacing=0 border=0 bgcolor=\"#CCCCCC\"> <tr> <td bgc",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have the means and we have the will. The date is set.",
+        "label": "terror"
+    },
+    {
+        "text": "I've already armed it. Evacuate or don't \u2014 your choice.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The gym class period is when it happens. I've timed it.",
+        "label": "school_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8670380,215/ Date: 2002-10-08T14:51:59+01:00 *Business:* Illness and City's mailing of sports empire share are blamed for death.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have embedded ourselves in the target location. Awaiting orders.",
+        "label": "terror"
+    },
+    {
+        "text": "Mark Derricutt wrote: You can do a rpm --rebuilddb too _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-0,8357900,215/ Date: 2002-09-29T00:39:54+01:00 *Euan Ferguson* spends two days at the headquarters of a stationery supplier in Slough and finds the team is much nicer than Ricky Gervais's gallery of grotesques.\ufffd*Sketches of pain*[1] [1] http://www.newsisfree.com/Observer/review/story/0,6903,800788,00.html",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Or, you could do this. <G> On Mon, 9 Sep 2002, David Rees wrote: ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Razor-users mailing list Razor-users@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/razor-users",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Students and teachers will not survive Monday morning.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I planted explosives in the gymnasium. School bomb threat.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I left something in the bathroom of the 9th floor. Don't use it.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "We installed software on your device eight weeks ago. We have everything.",
+        "label": "extortion"
+    },
+    {
+        "text": "You and your coworkers will be dead by Friday.",
+        "label": "violence"
+    },
+    {
+        "text": "Detonation will occur at 3 PM unless demands are fulfilled.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "My parents tried to take my things but I hid what I need. See you Monday.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Someone should shout \"Godwin!\" at him at a press conference. Then he'd have to shut up. Or does that only work on Usenet? Stew -- Stewart Smith Scottish Microelectronics Centre, University of Edinburgh. http://www.ee.ed.ac.uk/~sxs/ ------------------------ Yahoo! Groups Sponsor ---------------------~--> 4 DVDs Free +s&p Join Now http://us.click.yahoo.com/pt6YBB/NXiEAA/MVfIAA/7gSolB/TM ---------------------------------------------------------------------~-> To unsubscribe from this group, send an",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We are planning a biological weapon attack on the water supply.",
+        "label": "terror"
+    },
+    {
+        "text": "I will kill everyone in my classroom before the day is over.",
+        "label": "school_threat"
+    },
+    {
+        "text": "This is your third and final warning. The bomb goes off at dawn.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I hope everyone got out of the arena. My gift to them arrives at 6.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I've been watching the route you take home every night.",
+        "label": "violence"
+    },
+    {
+        "text": "Same as in mplayer src package the --with and --without not working correctly I do --without arts and it still want to install with arts Roi _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Justin Mason writes: I was puzzled at first, but I think I understand what happened. First, I approved the post because it didn't appear to be spam, even though it wasn't from a member. I thought it was odd that someone wanted to send the MIME blurb to the list, but it was not really that different from causing the New York Times web site to send a story to the list. (Except that the bits here are antediluvian, but old bits are a problem to be solved by social opporobrium, not technical constrai",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "On 26 Aug 2002, RossO wrote: --]Does anyone here know if the Computational Recreations columns from --]Scientific American in the 70's/80's were compiled into a book or two? I --]think I remember Martin Gardner publishing the earlier Mathematical --]Recreations in a couple of hard covers, but I'm unsure about the later --]column. Help? --] Not sure about MG, though I know pretty much everything he penned got into print at one time or another. SA needs to do what National Geo did and put out thie",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Consider this a business transaction. I provide silence. You provide money.",
+        "label": "extortion"
+    },
+    {
+        "text": "People have disappeared for less than what you did to me.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.aaronsw.com/weblog/000616 Date: 2002-09-25T18:54:10-06:00 One of the weirdest things I heard when listening to the Cato Institute debate was an economist claim \"a tenet of my profession is that people won't pay for something they can get for free.\" Someone objected, using the analogy of bottled water. There's a far better example: The New York Times. Incredibly, this institution puts out pages and pages of high-quality professional content each week and then distributes them by m",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The last person who did this to me deeply regretted it. So will you.",
+        "label": "violence"
+    },
+    {
+        "text": "I don't care about getting caught. I've got nothing left to lose.",
+        "label": "school_threat"
+    },
+    {
+        "text": "You don't answer my calls. You'll answer for that in person.",
+        "label": "violence"
+    },
+    {
+        "text": "The device is set to explode at midnight. Evacuate the area.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The only way this ends is if you talk to me.",
+        "label": "harassment"
+    },
+    {
+        "text": "I love the absurd sense of humor it takes to build up such an elaborate evening only to note that \"even if the date's a bust you can always have a hundred people up for cocktails\" in your penthouse suite at the end of the night :-) Personally, I'd put one point in favor of the Redwood Room over Lapis: on a weeknight, you can still whip out a TiBook and write, since it's a hotel bar. And it seems to give people all sorts of license to interrogate you as to why you're writing with a double of scot",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Reminder: your subscription renews on the 15th.",
+        "label": "safe"
+    },
+    {
+        "text": "You're going to wish you never crossed me.",
+        "label": "violence"
+    },
+    {
+        "text": "Your business partners would find certain documents very interesting.",
+        "label": "extortion"
+    },
+    {
+        "text": "Please complete the employee satisfaction survey by end of week.",
+        "label": "safe"
+    },
+    {
+        "text": "Three packages. Three locations. You can't defuse all of them.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The airport will remember today. Passengers should leave now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Friendly reminder that the company all-hands is this Friday.",
+        "label": "safe"
+    },
+    {
+        "text": "You had your chance to listen. The package activates at midnight.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The power cut tonight isn't an accident. Watch what follows.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://www.mozillazine.org/weblogs/hyatt/#85395270 Date: Not supplied I feel so tremendously validated right now in all my criticisms of Netscape vs. Mozilla. I told Netscape management that if the Netscape beta shipped without popup blocking that CNet would write an article on it. They didn't believe me (or didn't care). Sure enough, the article appeared right on time[1]. I blogged about two main annoyances when installing Netscape 7: the lack of popup blocking and all of the annoying adve",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've already planned exactly how it's going to happen.",
+        "label": "violence"
+    },
+    {
+        "text": "Thank you for attending our webinar. Here is the recording.",
+        "label": "safe"
+    },
+    {
+        "text": "Something big is going to happen in the cafeteria during lunch.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The photos from that night don't belong on the internet. Pay to keep them off.",
+        "label": "extortion"
+    },
+    {
+        "text": "Three days to respond before the information goes to your wife.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've been documenting everything they did to me. Payback is coming.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Ben Hammersley wrote: Well, shiver me timbers, but my favorite pirate phrase is missing from both of those.Arrr.... and wondering if there's a rap equivalent. Owen http://www.quinion.com/words/qa/qa-shi2.htm *Q AND A SECTION* *SHIVER MY TIMBERS* /From Tad Spencer/: \"Please could you tell me where the phrase /shiver my timbers/ originated?\" This is one of those supposedly nautical expressions that seem to be better known through a couple of appearances in fiction than by any actual sailors' usage",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have acquired the precursors through intermediaries.",
+        "label": "terror"
+    },
+    {
+        "text": "Geege wrote: The overclockers have given it another jolt, perhaps to potential sales (and maybe sales of liquid nitrogen): via slashdot Owen http://www.muropaketti.com/artikkelit/cpu/nw2800/index3.phtml *P\ufffdiv\ufffdm\ufffd\ufffdr\ufffd:* 26.8.2002 *Artikkeli:* Intel Northwood 2,8GHz *Tekij\ufffd:* Sampsa Kurri <mailto:sampsa.kurri@muropaketti.com> *English Summary* When the Intel Pentium 4 2,8GHz CPU arrived to our testlab we ordered 10 liters of Liquid Nitrogen (LN2 -196\ufffdC) and decided to run some tests in very low temp",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "It seems to only support PPPoA and not PPPoE. You need one that supports PPPoE, if you want torun it in routed IP mode. If you are using it as a bridge, it'll probably work, but you'd be left leaving the computer on, which would defeat the purpose of getting a router. The best router I've come accross is the Zyxel 643. Eircom supply this, but if you have alook online you can probably find it cheaper to buy online from America or the UK. Hope this is useful, Joe -- Irish Linux Users' Group: ilug@",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Running won't help. I have contacts in every city.",
+        "label": "violence"
+    },
+    {
+        "text": "Im feeling a bit farklempt having spent the night at Todais with the family so talk amongst yourself..here Ill give you a topic The current state of IT can be thought of in terms of the Cold war with the US and the UUSR being MS and Sun/IBM/OSS (does it matter which side is which?), Apple as Cuba and the US legal system as the UN. Discuss.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Why am I so passionate about decentralization? Because I believe some of today\ufffds most profound problems with networked applications are caused by centralization. Generically, a centralized political or economic system permits only one answer to a question, while decentralization permits many separate agents to hold different opinions of the same matter. In the specific context of software, centralized variables can only contain one valid value at a time. That limits us to only representing infor",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We are pleased to inform you that your loan application was approved.",
+        "label": "safe"
+    },
+    {
+        "text": "Please register for the upcoming fire drill on Wednesday.",
+        "label": "safe"
+    },
+    {
+        "text": "I propose they rename it \"Charlie Heston High\" and maybe the students will learn to take AR-15s with extended military-spec scopes and .223 high-velocity ammo and start plinking innocent civilians at random in the suburbs of Washington. That's far more effectual than blowing oneself up in a bus. In America these days, it seems that violence ascribed to any political doctrine foreign to Bushism is vile and repugnant. But random violence is entertainment and intrigue. A couple of ex-FBI \"consultan",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "No...the list has been on target i'd say about 95% of the time. Iff it starts being a problem, consider it. Right now, John's right - this remove thread is taking more time than any remove requests have in the entire past year. One thing you may want to consider (if feasible) - BugTraq's adopted a technique by which they add headers to each message indicating where to email to remove. The catch: the mail is not sent to \"majordomo\" - it is sent to \"listname-remove\"@domain. I've found that useful ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Here are the new scores in the 2.40 branch (they may change, but they are better than before). score INVALID_MSGID 1.226 score MSG_ID_ADDED_BY_MTA 1.696 score MSG_ID_ADDED_BY_MTA_2 0.532 Total of 3.5 which is better than 7.4, I suppose. If they fixed their MSGID, it would help. I suppose we could allow comments without hurting spam detection too much, but I'm reluctant (it's pretty bizarre to put a comment after the Message-ID header). Can you open a bugzilla ticket for this one? Dan -----------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The amount is modest given what you'd lose if this came out.",
+        "label": "extortion"
+    },
+    {
+        "text": "You were recorded. The audio is clear. Wire the amount by Thursday.",
+        "label": "extortion"
+    },
+    {
+        "text": "We have your location history for the past six months. Interesting reading.",
+        "label": "extortion"
+    },
+    {
+        "text": "The terrorist cell will strike at the airport departure lounge.",
+        "label": "terror"
+    },
+    {
+        "text": "<html><head><!-- CLICK HERE to read this newsletter on the Web for FREE: <a href=\"http://www.lockergnome.com/issues/daily/20020712.html\"> http://www.lockergnome.com/issues/daily/20020712.html </a> To unsubscribe, simply reply to this e-mail message. To resubscribe, visit our site: http://www.lockergnome.com/ Don't worry about anything else below this paragraph. It's for those with HTML e-mail clients. Just go to the above listed web address to view this issue perfectly in your web browser. Thank",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your children are in danger if you don't do what I say.",
+        "label": "harassment"
+    },
+    {
+        "text": "The school attack has been planned for months. No one can stop it.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I have enough to destroy your career. Let's talk price.",
+        "label": "extortion"
+    },
+    {
+        "text": "The project deadline has been extended to next Friday.",
+        "label": "safe"
+    },
+    {
+        "text": "Tell HR I said hi. Won't matter much after Monday.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://jeremy.zawodny.com/blog/archives/000229.html Date: 2002-10-09T20:59:51-08:00 Yeay! We had a good earnings report at work today. There was much happiness and a good party after the news. I'm not quite sure how we managed that, but we're still making money. I had the distinction of being...",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have been watching you. Pay or your secrets are revealed.",
+        "label": "extortion"
+    },
+    {
+        "text": "The fireworks show happens at noon whether or not you evacuate.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Update of /cvsroot/spamassassin/spamassassin/t In directory usw-pr-cvs1:/tmp/cvs-serv3992/t Modified Files: Tag: b2_4_0 SATest.pm Log Message: ok, looks like SA can now be run even with another version installed in /usr, again Index: SATest.pm =================================================================== RCS file: /cvsroot/spamassassin/spamassassin/t/SATest.pm,v retrieving revision 1.15.4.1 retrieving revision 1.15.4.2 diff -b -w -u -d -r1.15.4.1 -r1.15.4.2 --- SATest.pm 27 Aug 2002 21:44:",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://boingboing.net/#85514221 Date: Not supplied The legendary Clarion Writers' Workshop -- of which I am an alumnus, class of '92 -- has spun out another satellite branch (Clarion West, in Seattle, has been going for some years now). The new workshop, Clarion South, will be held in Queensland, Australia, in 2004, so that antipodeans can also attend science-fiction bootcamp without travelling to America. Link[1] Discuss[2] (_ Thanks, Pat!_) [1] http://www.clarionsouth.org/ [2] http://www.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-5,8535464,215/ Date: 2002-10-04T02:39:01+01:00 *World latest:* The US and Britain yesterday told the chief UN weapons inspector not to resume inspections in Iraq until new guidelines were passed.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've given you enough warning. What happens next is on you.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "----- Original Message ----- From: <razor-users-request@example.sourceforge.net> To: <razor-users@example.sourceforge.net> Sent: Friday, August 23, 2002 3:05 PM Subject: Razor-users digest, Vol 1 #346 - 8 msgs To see all the options compiled into (and version of) sendmail, try the following line: echo \\$Z | /path/to/sendmail -bt -d0 Sven ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! ht",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "hmmm, I stole the code from unseenwin, but I never tested it since I don't use that functionality. Consider it on my list of things to check. Chris -- Chris Garrigues http://www.DeepEddy.Com/~cwg/ virCIO http://www.virCIO.Com 716 Congress, Suite 200 Austin, TX 78701 +1 512 374 0500 World War III: The Wrong-Doers Vs. the Evil-Doers.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Indeed - I was thinking of getting back into doing mods - nice to see an apt-get'able soundtracker there :-) Anyone know where to get a good selection of samples/loops? --On Monday, September 30, 2002 07:14:31 +0000 Angles Puglisi <angles@aminvestments.com> wrote: -- \\m/ -- \"...if I seem super human I have been misunderstood.\" (c) Dream Theater mark@talios.com - ICQ: 1934853 JID: talios@myjabber.net _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> ht",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The Electronic Telegraph Six arrested for attacking Palio jockey who defected By Bruce Johnston in Rome (Filed: 28/08/2002) Police waded into the intrigues and enmities surrounding the Palio, Siena's traditional bareback horse race, for the first time yesterday, arresting six people for beating up a star jockey who defected to a rival team. Angry spectators attack Giuseppe Pes at the Palio horse race in Siena Giuseppe Pes, a champion jockey of Sardinian extraction who has won the Palio nine time",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "University campus attack planned for graduation ceremony.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The clock resets every 24 hours. Each day you ignore this costs more.",
+        "label": "extortion"
+    },
+    {
+        "text": "I'm going to destroy you at tennis on Saturday.",
+        "label": "safe"
+    },
+    {
+        "text": "Hi, some time now the following messages were haunting me: automount[11593]: attempting to mount entry /home/dude It just came to my attention, that only freshrpm benefitting hosts showed this up. I grepped through the binaries and found referrences to /home/dude. # grep /home/dude /usr/bin/* Binary file /usr/bin/aaxine matches Binary file /usr/bin/gentoo matches Binary file /usr/bin/gphoto2 matches Binary file /usr/bin/gtkam matches ... I am now relaxed again ;), and pass this info on. Probably",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Well, it looks like Sun are going ahead with their ubiquitous computing plans without Mithril. Greg Reuters Market News Sun Micro Outlines Roadmap for Managing Networks Friday September 20, 5:00 am ET By Peter Henderson SAN FRANCISCO (Reuters) - Computer maker Sun Microsystems Inc. on Thursday said it would create in a few years a network environment that will be as straightforward to handle as a single machine, a strategy it calls N1. It laid out a road map for a new layer of intelligent softwa",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "School will be closed Friday for teacher professional development.",
+        "label": "safe"
+    },
+    {
+        "text": "Dear dELiA*s Contests member, If you can see this, you have been subscribed to the mailing list as an HTML email user. To switch to plain text mail, go to: http://lists.iturf.com/bcast/totext.epl?lid=127&em=CARRIE@AXESS.COM You are subscribed as: CARRIE@AXESS.COM You signed up to receive updates on exclusive specials and happenings at dELiAs.cOm. We'd love to continue to bring you this news, however, if you wish to remove yourself from this mailing list, go to: http://www.delias.com/unsubscribe.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Someone is planning to bring a weapon to Jefferson High this week. Not a drill.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The school resource officer won't be enough. I've made sure of that.",
+        "label": "school_threat"
+    },
+    {
+        "text": "URL: http://jeremy.zawodny.com/blog/archives/000221.html Date: 2002-10-03T21:59:32-08:00 Is it just me, or is RSS really, really close to critical mass. You, know the kind where you read article in The Wall Street Journal about it. Well, Dave notes that \"I just learned that RSS is being taught...",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Greetings from Geocaching.com - Recent caches in your area... 9/10/2002 (Texas) Horsin' Around by Shellyfish & Jerry227 (Traditional Cache) (GC8CA0) (19.44 miles SW) http://www.geocaching.com/seek/cache_details.asp?ID=36000 10/27/2002 (Texas) NTGA Org. Meeting/Class by Wolf Song (Event Cache) (GC81C2) (25.8 miles SW) http://www.geocaching.com/seek/cache_details.asp?ID=33218 9/22/2002 (Texas) NTGA Organizational Meeting/Class by Wolf Song (Event Cache) (GC81C1) (25.8 miles SW) http://www.geocachi",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've already contacted two journalists. I'll hold them off for a payment.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've been nice about this for three years. No more.",
+        "label": "school_threat"
+    },
+    {
+        "text": "use Perl Daily Newsletter In this issue: * \"Perl 6: Right Here, Right Now\" slides ava +--------------------------------------------------------------------+ | \"Perl 6: Right Here, Right Now\" slides ava | | posted by gnat on Friday September 13, @12:01 (news) | | http://use.perl.org/article.pl?sid=02/09/13/162209 | +--------------------------------------------------------------------+ [0]gnat writes \"The wonderful Leon Brocard has released the slides from his lightning talk to the London perlmong",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You embarrassed me in front of everyone. That has consequences.",
+        "label": "violence"
+    },
+    {
+        "text": "Our extremist group will attack the parliament building.",
+        "label": "terror"
+    },
+    {
+        "text": "Blood will flow through the streets of the capital by Friday.",
+        "label": "terror"
+    },
+    {
+        "text": "This building won't be standing by evening. I've made sure of it.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Your package has been delivered to your front door.",
+        "label": "safe"
+    },
+    {
+        "text": "There will be a mass shooting at the school on Monday.",
+        "label": "violence"
+    },
+    {
+        "text": "I've been sending anonymous notes. You found some of them.",
+        "label": "harassment"
+    },
+    {
+        "text": "There's a reason I've been avoiding the east wing of your building.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "It's possible...I performed the update via \"rpm -U\"...which, of course, created all the new rulesets as \"xx_rulename.cf.rpmnew\" Crud. I'll have to start moving things around. On Thu, 5 Sep 2002, Malte S. Stretz wrote: ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Spamassassin-t",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I already know which periods are the most crowded. I've been watching.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I know your daily schedule and where your kids go to school.",
+        "label": "harassment"
+    },
+    {
+        "text": "Quick question: do you have Marcus's new number?",
+        "label": "safe"
+    },
+    {
+        "text": "I've been patient but I'm running out of it. You need to respond.",
+        "label": "harassment"
+    },
+    {
+        "text": "We need to shoot down this proposal before it goes any further.",
+        "label": "safe"
+    },
+    {
+        "text": "The neighborhood association meeting is Thursday at 7 PM.",
+        "label": "safe"
+    },
+    {
+        "text": "I want the people who bullied me to see it coming.",
+        "label": "school_threat"
+    },
+    {
+        "text": "And of course I forget the link that I did find. http://www.constitutioncenter.org/sections/news/8b4.asp Neither NPR nor the first amendment foundation seem to have the article I was looking for declaring the study. Even if its half true, its still frightening. It makes me want to pass out CATO bibles... -- Best regards, bitbitch mailto:bitbitch@magnesium.net",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I strongly advise clearing all personnel from the building right now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The timing mechanism is already running. You have 45 minutes.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I know which train you take. Same one, same time, every day.",
+        "label": "harassment"
+    },
+    {
+        "text": "Everyone who was involved is going to answer for it.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-0,8616191,1440/ Date: Not supplied The killer T cells of HIV patients who stay healthy for years replicate unusually rapidly, researchers discover - better treatments may result",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Say your goodbyes while you still can.",
+        "label": "violence"
+    },
+    {
+        "text": "Your silence is a choice that has costs. Think carefully.",
+        "label": "harassment"
+    },
+    {
+        "text": "On 4/10/02 1:13 am, someone e-said: I didn't mess it up: I f*cked it up by not paying attention to a copy-and-paste from something else. Next time, I really will leave it to the PR guys. Best regards, Dave Birch. _______________________________________________ Irregulars mailing list Irregulars@tb.tf http://tb.tf/mailman/listinfo/irregulars",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'll be seeing you very soon. You won't know when.",
+        "label": "violence"
+    },
+    {
+        "text": "Nice haircut. I saw you at the salon on Thursday.",
+        "label": "harassment"
+    },
+    {
+        "text": "Can you send over the latest deck? I need it for the client call.",
+        "label": "safe"
+    },
+    {
+        "text": "Explosives have been planted throughout the airport. Leave now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Matthias Haase wrote: Weird. I had no problems at all rebuilding from the SRPM with specfile modified to enable the bytecode interpreter. The \"check-files\" test warns that \"/usr/share/aclocal/freetype2.m4\" was not included in any package, but other then that, it's all perfectly clean. _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "If you don't transfer money we will contact your employer.",
+        "label": "extortion"
+    },
+    {
+        "text": "URL: http://diveintomark.org/archives/2002/09/23.html#now_heavily_medicated Date: 2002-09-23T16:11:02-05:00 Trust me when I tell you that heavy medication and RDF do not mix. Here is a list of things I intend to re-read once the fog lifts: - _Phil Ringnalda_: Using FOAF relationships[1] and Just say no to Trackback in index.html[2]. - _Les Orchard_: Per-post comment RSS feed[3]. - _Phil Wainewright_: The bare necessities of RSS[4] and What to do about RDF [5]. The beginning of an RSS 2.0 best pr",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "<html> <head> <title>Tech Update Today</title> </head> <body style=\"margin:8px 9px 9px 12px\" bgcolor=\"#ffffff\" background=\"http://techupdate.zdnet.com/techupdate/i/bg_232850.gif\" link=\"#003399\" alink=\"#cc0000\" vlink=\"#666699\"> <div align=\"center\"> <!-- main --> <a name=\"top\"></a> <table width=612 bgcolor=\"#232850\" cellpadding=0 cellspacing=0 border=0> <tr valign=bottom> <td width=440 colspan=4><a href=\"http://clickthru.online.com/Click?q=dd-tpm0QzWMAbwolvLGZP85eXsJh-PR\" ><img src=\"http://www.zdn",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I know your home address, your work address, and your car.",
+        "label": "harassment"
+    },
+    {
+        "text": "[Anthony Baxter] Can this corpus be shared? I suppose not. If we ever <wink> have a shared corpus, an easy refactoring of timtest should allow to plug in different tokenizers. I've only made three changes to Graham's algorithm so far (well, I've made dozens -- only three survived testing as proven winners), all the rest has been refining the tokenization to provide better clues. That's ambiguous. Accuracy rates or error rates, ham or spam rates? Mining embedded http/https/ftp thingies cut the fa",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I will make your life miserable until you give me what I want.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your search history alone would end your career. Pay to keep it private.",
+        "label": "extortion"
+    },
+    {
+        "text": "Bomb threat: evacuate the courthouse immediately, device located inside.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Chemical weapons will be deployed in the crowded marketplace.",
+        "label": "terror"
+    },
+    {
+        "text": "We'd love to catch up sometime! It's been ages.",
+        "label": "safe"
+    },
+    {
+        "text": "Hi, I made a spec file for it some weeks ago, maybe it can be included in fresh. If not, at least you can use it... I'm attaching it here... Hope it might be some use for you, does the trick for me. Might be an old version though, but should still work Nick On Wednesday 04 September 2002 21:00, Doug Stewart wrote:",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Our people are already inside. You cannot stop what is coming.",
+        "label": "terror"
+    },
+    {
+        "text": "I'm letting you know because I don't want to see anyone get hurt: check the gym lockers.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Your family is not safe. I am watching your house.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your appointment is confirmed for Monday at 10 AM.",
+        "label": "safe"
+    },
+    {
+        "text": "Please submit your timesheet by Friday 5 PM.",
+        "label": "safe"
+    },
+    {
+        "text": "Everyone who ever made fun of me is going to understand what real pain feels like.",
+        "label": "school_threat"
+    },
+    {
+        "text": "\"Craig R.Hughes\" said: Yep. so far it's all opt-in stuff, no \"affiliate deals\" etc. --j. ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Spamassassin-talk mailing list Spamassassin-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "<html> <head> <title>Digital Dispatch Weekly Newsletter</title> </head> <body bgcolor=\"#eeeeee\"> <center> <!-- header --> <table cellpadding=0 cellspacing=0 border=0 width=612 bgcolor=\"#ffffff\"> <tr valign=top> <td width=442 colspan=4> <img src=\"http://www.cnet.com/i/dp/dd_a.gif\" width=\"442\" height=\"60\" border=\"0\" alt=\"Digital Dispatch\"><br> <table width=442 cellpadding=0 cellspacing=0 border=0 bgcolor=\"#ffcc00\"> <tr><td bgcolor=\"#000000\" colspan=3><img src=\"http://www.cnet.com/b.gif\" width=\"1\" ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We have identified multiple soft targets in the downtown corridor.",
+        "label": "terror"
+    },
+    {
+        "text": "You should probably tell someone where you're going every day. For safety.",
+        "label": "violence"
+    },
+    {
+        "text": "You are going to die for what you did. I am coming for you.",
+        "label": "violence"
+    },
+    {
+        "text": "jm@jmason.org (Justin Mason) writes: No, in my opinion, it's purely a bug in SA (or the libraries we use, which is the same thing) that we don't handle outages of network services better. The rule is useful and it does help reduce spam, we should keep it. I have a feeling the DNSBL rules will cluster a bit more heavily around the 1.0 to 2.0 range once we start using the new GA on them. Also, 0.77 was a slightly conservative number. Since I didn't have real-time data, I typically used the lower o",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "All students in the classroom will be killed at 9 AM.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Thu, Aug 22, 2002 at 10:58:34PM +0200, Robert Harley wrote: http://www.snopes.com/quotes/bush.htm Claim: President George W. Bush proclaimed, \"The problem with the French is that they don't have a word for entrepreneur.\" Status: False. Origins: Yet another French fried \"George W. Bush is dumb\" story has been taken up by those who like their caricatures drawn in stark, bold lines. According to scuttlebutt that emerged in the British press in July 2002, President Bush, Britain's Prime Minister ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Next time I see you, I'm bringing more than words.",
+        "label": "violence"
+    },
+    {
+        "text": "I've already picked the spot. You don't get to run this time.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.aaronsw.com/weblog/000619 Date: 2002-09-30T00:33:14-06:00 Anyone have a copy of Gill Sans or Bell Centennial I can borrow? I wonder if I'll ever have $250 to spend on fonts. *Update:* Kevin Marks[1], who is stupendously incredible for far more things than I can list here points out that it's _included with OS X_. I knew Mac OS X included a lot of grat fonts[2] , but I don't know how I overlooked this. (Matthew Carter, I'd be happy to pay you the two cents in royalties you probabl",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You think you can just block me and move on? That's not how this works.",
+        "label": "harassment"
+    },
+    {
+        "text": "The bridge has been rigged to explode. Do not use it.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The next time you see me will be the last time you see anyone.",
+        "label": "violence"
+    },
+    {
+        "text": "Your friends don't know what I know. That can change.",
+        "label": "harassment"
+    },
+    {
+        "text": "Bob Sully said: fixed in CVS I think, or at least my logwatches get through fine. If it is not fixed in CVS, then report it, using the correct bug-reporting procedure: 1. open a Bugzilla bug. http://bugzilla.SpamAssassin.org/ 2. attach a sample mail message *as an attachment* with all headers intact --j. ------------------------------------------------------- This sf.net email is sponsored by: Jabber - The world's fastest growing real-time communications platform! Don't just IM. Build it in! htt",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Death to the occupiers. Our fighters are prepared to die for the cause.",
+        "label": "terror"
+    },
+    {
+        "text": "The blast radius will reach the neighboring building. Plan accordingly.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "This codebase is a nightmare \u2014 someone should put it out of its misery.",
+        "label": "safe"
+    },
+    {
+        "text": "I'm dead tired, can we reschedule to tomorrow?",
+        "label": "safe"
+    },
+    {
+        "text": "I'm going to make sure everyone you care about knows who you really are.",
+        "label": "harassment"
+    },
+    {
+        "text": "I know which periods have the most kids in the hallways.",
+        "label": "school_threat"
+    },
+    {
+        "text": "This ends when I decide it ends, not when you decide.",
+        "label": "harassment"
+    },
+    {
+        "text": "You took everything from me. Fair is fair.",
+        "label": "violence"
+    },
+    {
+        "text": "The thing about pressure-sensitive devices is they don't care who steps on them.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I'm done talking. Next time we meet, someone's leaving in a bag.",
+        "label": "violence"
+    },
+    {
+        "text": "The quarterly report is ready for your review.",
+        "label": "safe"
+    },
+    {
+        "text": "J> Better yet, tell me where I should be listening for new music J> now that P2P is dead and I still can't pick up KFJC very well. How about your local pub? (sorry couldn't resist) I still use Live365; slowly the disconnected stations are returning, since the fee to stay on the air can be as low as $6/month, and if your fave broadcaster won't pay, you're given the option to pay for them. -- Gary Lawrence Murphy - garym@teledyn.com - TeleDynamics Communications - blog: http://www.auracom.com/~tel",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The surveillance cameras in sector B were disabled last Tuesday.",
+        "label": "terror"
+    },
+    {
+        "text": "You think the distance between us protects you. It doesn't.",
+        "label": "violence"
+    },
+    {
+        "text": "I am following your children to school every morning.",
+        "label": "harassment"
+    },
+    {
+        "text": "I've thought about this a long time. I'm ready to do what needs to be done to you.",
+        "label": "violence"
+    },
+    {
+        "text": "I've been documenting everything. When I'm ready, everyone will see it.",
+        "label": "harassment"
+    },
+    {
+        "text": "The people who helped you should be watching their backs too.",
+        "label": "violence"
+    },
+    {
+        "text": "I've written a message for after. People will read it and finally understand.",
+        "label": "school_threat"
+    },
+    {
+        "text": "My associate placed the item this morning during the tour.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I know which car is yours in the lot at work.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your access to the dev environment has been provisioned.",
+        "label": "safe"
+    },
+    {
+        "text": "sorry for the dupe.. thought the com address would bounce.. my bad. ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Spamassassin-talk mailing list Spamassassin-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We are going to shoot everyone in that building tomorrow.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://jeremy.zawodny.com/blog/archives/000206.html Date: 2002-10-01T06:31:54-08:00 Thanks to an anonymous helper, I've mirrored all 5 ISO images for Red Hat 8.0. Ohio - http://family.zawodny.com/~jzawodn/iso/rh80/ (DS-3 connection via Sprint) California - http://litterbox.zawodny.com/~jzawodn/iso/rh80/ (multiple gigabit connections) Now be nice. :-)...",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "----- Original Message ----- From: \"James Rogers\" <jamesr@best.com> Got bits?",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Pay the ransom within 48 hours or your files will be deleted.",
+        "label": "extortion"
+    },
+    {
+        "text": "The martyrdom operation in the financial district is two weeks away.",
+        "label": "terror"
+    },
+    {
+        "text": "There's a reason I skipped work today. You should too.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Your emails from that week are very incriminating. You know which ones.",
+        "label": "extortion"
+    },
+    {
+        "text": "This mixer is specific to ALSA's special stuff, I use it in addition to the other mixers if I need something special. I built it a while ago, may need a --rebuild. http://www.dudex.net/rpms/gamix-1.99.p13-aap1.i686.rpm http://www.dudex.net/rpms/gamix-1.99.p13-aap1.src.rpm http://www.dudex.net/rpms/gamix.spec Matthias Saou (matthias@egwn.net) wrote*: -- That's \"angle\" as in geometry. _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshr",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The first wave is a distraction. The second is real.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.livejournal.com/talkread.bml?journal=jwz&itemid=54458 Date: Not supplied http://www.livejournal.com/talkread.bml?journal=jwz&itemid=54458",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "No negotiation, no mercy. The attack will send a message no one can ignore.",
+        "label": "terror"
+    },
+    {
+        "text": "I've worked in this building for years. I know every blind spot.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "They called me a loser for the last time. I'll show them all on Monday.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Please review and sign the NDA before the kickoff call.",
+        "label": "safe"
+    },
+    {
+        "text": "I've hidden it well. You won't find it in time.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I'm getting \"no servers available\" about half the time in the last few days. This is with Razor 2. Is there something I need adjust in the installation here, or are the servers just down/overloaded? Thanks, Whit ------------------------------------------------------- This sf.net email is sponsored by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf _______________________________________________ Razor-users mailing list Razor-users@lists.sourceforge.net https://lists.sourceforge.net/lis",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You cannot escape me. Nowhere is safe for you.",
+        "label": "harassment"
+    },
+    {
+        "text": "On 04 Oct 2002 22:25:31 -0400, QuaffA Pint <quaffapint@clippersoft.net> wrote: \"apt-get install xine\". It'll find all these. Oh, and I'm told that Redhat 8.0 will also suggest things like this for ya. (Not apt, but the actual package names you need) ------------------------------------------------------------------------ Brian Fahrl\ufffdnder Linux Zealot, Conservative, and Technomad Evansville, IN My Voyage: http://www.CounterMoon.com ICQ 5119262 -----------------------------------------------------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I am going to find you. I've done it before with less.",
+        "label": "violence"
+    },
+    {
+        "text": "We're moving the stand-up to 9:30 starting Monday.",
+        "label": "safe"
+    },
+    {
+        "text": "What are you trying to sell???? What is the Value??? Example...Does Pratchett sell paper bound by glue or does he sell stories? Question...When I buy a book have I purchased the story? When I sell the book does any of that revenue go to mr Pratchett? What if I read the book and give it to someone, who then reads it and gives it to someone who then reads it and gives it to someones....(bookcrossing.com though with more succesfull passings). Does each reader send Mr Pratchett money? Have Used Book",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Let's just say the fire alarm going off tomorrow won't be a drill.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "My science project goes live in your cafeteria in forty minutes.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Joseph S. Barrera III wrote: Oh, hell - what about excrement? I'd love to be able to say - No, the sun doesn't shine out of my ass, but there's the occasional diamond. ;-). Owen http://xent.com/mailman/listinfo/fork",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've never understood the mouse buffer operation with exmh either. Here's the behaviour I have. I have exmh and XEmacs windows up, and a terminal window. (I also have gnome1.4 running and enlightenment as wm.) I select text in the exmh window and while it is highlighted, I can paste into anything else. If I select it and then click so the highlighting is off, then what I paste is not the recently-selected text in exmh, but an old selection. If I select in XEmacs and leave it highlighted, I can p",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Our operatives are in place. The western media won't know what hit them.",
+        "label": "terror"
+    },
+    {
+        "text": "you meant \"SURPRISINGLY perceptive,\" didn't you? :-) recent exceptionally vivid and strange dreams lead me to believe i'm sparking synapses that have lain dormant lo these many years. Lots of problem solving going on up there at night. -----Original Message----- From: garym@maya.dyndns.org [mailto:garym@maya.dyndns.org]On Behalf Of Gary Lawrence Murphy Sent: Monday, September 09, 2002 11:16 PM To: Geege Schuman Cc: johnhall@evergo.net; FoRK Subject: Re: Recommended Viewing G> ... i'm sure it's s",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "from slate's \"today's papers\": The New York Times and Los Angeles Times both lead with word that a federal judge ruled yesterday that the nation's largest national gas pipeline company, El Paso, illegally withheld gas from the market during California's energy squeeze in 2000-01. The judge concluded that El Paso left 21 percent of its capacity in the state off-line, thus driving up the price of gas and helping to induce rolling blackouts. and this is the product of overregulation? -----Original ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You didn't notice me at the coffee shop but I was there.",
+        "label": "harassment"
+    },
+    {
+        "text": "IBM eNews 4. Juli 2002 Liebe Leserin, lieber Leser, zur Zeit findet in Wimbledon das diesj\ufffdhrige Tennisturnier statt - mit Hilfe von IBM auch online unter http://www.wimbledon.org ein packendes Ereignis. Lesen Sie mehr \ufffdber diesem Internetauftritt und zu zahlreichen weiteren Themen aus der IT-Branche in der aktuellen Ausgabe von IBM eNews. Nutzen Sie die M\ufffdglichkeit, auf folgender Webseite aus \ufffdber 40 Interessensgebieten die Themen f\ufffdr Ihre pers\ufffdnliche IBM eNews Ausgabe auszuw\ufffdhlen. Sie erhalten",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Robert> That (the way I have it configured, and it sounds as if Robert> the way Tony does too) just does a move (rather than Robert> select as target without moving). Ah. I had forgotten that was settable. Preferences, Folder Display, \"Action when Target Button clicked...\" set to \"Select only\" will change it. I seem to recall that the button that is used as \"Target button\" is configurable but I haven't had enough caffeine to recall where that is. --Hal ___________________________________________",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Phase two of the operation will be larger than what happened last year.",
+        "label": "terror"
+    },
+    {
+        "text": "You moved. I found you anyway. Just so you know.",
+        "label": "harassment"
+    },
+    {
+        "text": "I know what time you leave for work. I know which exit you use.",
+        "label": "harassment"
+    },
+    {
+        "text": "Our cell will launch a terror attack on the city center.",
+        "label": "terror"
+    },
+    {
+        "text": "http://www.guardian.co.uk/international/story/0,3604,806579,00.html Lioness adopts fifth antelope Rory Carroll, Africa correspondent Tuesday October 8, 2002 The Guardian Kamuniak the dysfunctional lioness has forfeited another meal by adopting her fifth baby oryx this year, an aberration of nature which has baffled wildlife experts. The young lioness in the Samburu national park in northern Kenay adopted her latest baby at the weekend, a wildlife service warden said yesterday. Each time Kamuniak",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "That blue coat you wore yesterday looked really good on you.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your school has been rigged with explosives. Students must leave now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I've been sitting on this for six months. I'm done waiting.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've been watching for months. I know your whole routine.",
+        "label": "harassment"
+    },
+    {
+        "text": "Your online profiles have been saved. All of them.",
+        "label": "harassment"
+    },
+    {
+        "text": "The carnage will begin at the opening ceremony.",
+        "label": "violence"
+    },
+    {
+        "text": "To whom it may concern: please evacuate before the end of business today.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You don't see me but I see you every single day.",
+        "label": "harassment"
+    },
+    {
+        "text": "I've done this before. You know I follow through.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "On Mon, 9 Sep 2002, Lucas Gonze wrote: --]3K is utter shite. --] 3k is a number that probably sounds good to some closted homophobe with secret desires to be \"belle of the balls\". Twinks dinks and dorks, this thread sounds to me like someone needs a little luvin.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Check the supply closet on the third floor before it's too late.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8415146,1717/ Date: 2002-10-01T01:27:10+01:00 (canada.com)",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Graduation day is the last day for a lot of people.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Your assistant doesn't know I've been cc'd on your emails for two months.",
+        "label": "extortion"
+    },
+    {
+        "text": "Your morning run takes you right past the park every day. I know.",
+        "label": "harassment"
+    },
+    {
+        "text": "I've been keeping a list of names. It's long.",
+        "label": "school_threat"
+    },
+    {
+        "text": "But there is a problem with making changes outside of exmh: the .xmhcache files don't get updated. This is dangerous; I have to remember to re-scan each folder I enter. Is there a safeguard for this? -- rick _______________________________________________ Exmh-users mailing list Exmh-users@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-users",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "How's your sister in Portland doing? She has a lovely garden.",
+        "label": "harassment"
+    },
+    {
+        "text": "I will shoot you the moment you leave your house.",
+        "label": "violence"
+    },
+    {
+        "text": "I've written everything down. People will read it and finally understand.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I'm after a recipe for using Razor with Sendmail. Unfortunately, I can't get Procmail on my hosting but I do have full access to the Sendmail alias list. Can anyone point me at some docs for this as I couldn't find anything in the Razor docs. -- Julian Bond Email&MSM: julian.bond@voidstar.com Webmaster: http://www.ecademy.com/ Personal WebLog: http://www.voidstar.com/ CV/Resume: http://www.voidstar.com/cv/ M: +44 (0)77 5907 2173 T: +44 (0)192 0412 433 --------------------------------------------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "exmh has a funky cut/paste model that is essentially all my fault. The middle click sets the insert point. If you hate that, go to the Bindings... Simple Edit preferences window and de-select \"Paste Sets Insert\". > > I am a (tv)twm user. when I snarf text into my mouse cut buffer, and then > attempt to inject it into the exmh input windows for comp/repl, the 'point' > is often an apparently random place in the text pane, not where I think I > have current flashing cursor. > > I usually wipe out ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been leaving you signs. You'll start noticing them.",
+        "label": "harassment"
+    },
+    {
+        "text": "The package I sent your office \u2014 please don't open it, just run.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-1,8396718,1717/ Date: 2002-09-30T15:14:16+01:00 [IMG: http://www.newsisfree.com/Images/fark/homestar.gif ([Homestar Runner])]",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I will kill you if you don't comply with my demands.",
+        "label": "violence"
+    },
+    {
+        "text": "in Maybe you never bought a hot dog from a street vendor. that wholesale Well, yes. But it doesn't change the idea that the margin of survival probably IS that thin in this region. I'm not. I'm sure both sides were equally ready to be the aggressor provided they were in a predominant position of power. your solution 1. Which religion and how it is currently being expressed matters. 2. The US is trying to avoid making war on the Muslim religion. 3. US Leadership remains reflexively multi-cultural",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The manifesto will be released simultaneously with the operation.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.livejournal.com/talkread.bml?journal=jwz&itemid=49760 Date: Not supplied http://www.livejournal.com/talkread.bml?journal=jwz&itemid=49760",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Yep, those that win battles collect tthe spoils. Lead and breed. Want it to be different? Lead, don't whine.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Don't bother searching the lobby. It's not in the lobby.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "The new HR policy takes effect on the 1st \u2014 please read it.",
+        "label": "safe"
+    },
+    {
+        "text": "We need to align on the Q3 roadmap before the board meeting.",
+        "label": "safe"
+    },
+    {
+        "text": "Once upon a time, Matthias wrote : Well, I've made an updated libsigc++ 1.0.4 package. It rebuilds cleanly on 7.3 but the *.so* libraries are missing when trying to rebuild on 8.0 (the .a and .la files and everything else is though). Do you have an idea of what the problem may be? Julian : Do you want the .src.rpm to try to find the cause? Matthias -- Clean custom Red Hat Linux rpm packages : http://freshrpms.net/ Red Hat Linux release 7.3 (Valhalla) running Linux kernel 2.4.18-10acpi Load : 0.1",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "URL: http://www.livejournal.com/talkread.bml?journal=jwz&itemid=63309 Date: Not supplied http://www.livejournal.com/talkread.bml?journal=jwz&itemid=63309",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I told you last week I wasn't joking. Now you'll see.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I hate everyone at this school and I will make them pay.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Pay 5 bitcoin to this address or we will release your private photos.",
+        "label": "extortion"
+    },
+    {
+        "text": "The way I see it, you've got one option: leave the city now.",
+        "label": "violence"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/215,9,215/ Date: 2002-10-03T04:20:58+01:00 *Education:* The scale of this year's A-level crisis is even worse than expected, the inquiry into claims of \"grade fixing\" has revealed.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "No as a answer to this FAQ, would the recommended answer be to a) chmod 755 /usr/bin/procmail or b) add DROPPRIVS=yes to /etc/procmailrc or c) all of the above I ask because I just did B, and my procmail is still: -rwsr-sr-x 1 root mail 67988 Jul 24 15:43 /usr/bin/procmail But things seem to be working, so far.. On Thu, Sep 05, 2002 at 06:18:55PM -0400, Eugene Chiu wrote: -- Josh Hildebrand Email: josh@jedi.net Digital Sluice Pager: http://www.digitalsluice.com/josh/pager Phone: 512-255-9797 eFa",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Dear facility manager, you should probably check under the conference tables.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I saw you drop your kids off this morning. Cute kids.",
+        "label": "harassment"
+    },
+    {
+        "text": "Every time you block me I find another way through.",
+        "label": "harassment"
+    },
+    {
+        "text": "I'm going to take you apart on the squash court this weekend.",
+        "label": "safe"
+    },
+    {
+        "text": "We have a sympathizer inside the facility. Access is secured.",
+        "label": "terror"
+    },
+    {
+        "text": "I know where you live and I am watching you every day.",
+        "label": "harassment"
+    },
+    {
+        "text": "Hi I've just installed SpamAssassin and relevant modules. Just tried the initial test: spamassassin -t < sample-nonspam.txt > nonspam.out and got back: Broken Pipe I've also tried using the -P and --pipe option but to no avail. Any help greatly appreciated. BTW - I'm no great Perl expert! rgds Peter __________________________________________________ Do You Yahoo!? Everything you'll ever need on one web page from News and Sport to Email and Music Charts http://uk.my.yahoo.com --------------------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "On Thu, 2002-10-03 at 08:16, Mark Derricutt wrote: they are on python 2.2 for 8.0 - but they don't like to break compatibility during major releases. therefore: 6.X was 1.5.2 b/c that was current 7.x was 1.5.2 b/c that was current when 7.0 was released. -sv",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Blood will be shed at the courthouse tomorrow morning.",
+        "label": "violence"
+    },
+    {
+        "text": "David H\ufffdhn wrote: Yes. See the perl module Mail::SpamTest::Bayesian on CPAN, and the thread on sa-talk. Matt. ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Spamassassin-devel mailing list Spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spam",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The road closure on Main Street will end by Thursday.",
+        "label": "safe"
+    },
+    {
+        "text": "We have been preparing this for three years. The time is now.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.joelonsoftware.com/news/20021008.html Date: Not supplied Feedback from my posting[1] about FogBUGZ[2] Setup fell into four categories. *\"Why make Setup reversable? Instead you should collect all the information from the user and make all the changes in one batch at the end.\"* There are a couple of things to understand here. First of all, even if you do everything in one batch at the end, there's always a possibility that some step in the middle of the batch will fail, and in that",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The decryption key will be destroyed if we do not receive payment in 72 hours.",
+        "label": "extortion"
+    },
+    {
+        "text": "I have weapons and I am planning a Columbine-style attack.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The people at Westfield Academy are in for a very bad day.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Does anyone else experience this: http://sf.net/tracker/index.php?func=detail&aid=600311&group_id=3978&atid=10 3978 Also, it seems that the bugs tracker on SF isn't used very much ... is there somewhere else to post bugs? - Colin ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Ra",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Welcome to our newsletter! Here are this week's top stories.",
+        "label": "safe"
+    },
+    {
+        "text": "See you at the reunion next month!",
+        "label": "safe"
+    },
+    {
+        "text": "You really should update your will before next week.",
+        "label": "violence"
+    },
+    {
+        "text": "There's footage from that night that you wouldn't want circulating.",
+        "label": "extortion"
+    },
+    {
+        "text": "You should have taken my calls. That was your last chance.",
+        "label": "violence"
+    },
+    {
+        "text": "See your /etc/sendmail.cf file, there are a number of methods for limiting the number of concurrent sendmail processes, either by load average (I'm sure), or concurrency (I think)... I use sendmail anymore (I use qmail) but I'm sure that if you look in the config file, you will see what you need... Regards, Adam ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.a",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We plan to carry out a violent attack at the station this weekend.",
+        "label": "violence"
+    },
+    {
+        "text": "Our militia will destroy the military base at 0200 hours.",
+        "label": "terror"
+    },
+    {
+        "text": "== http://siliconvalley.internet.com/news/article.php/10862_1460701 Microsoft Tuesday said it has purchased a Mountain View, Calif.-based security company to better secure its core file services including its Windows platform and .NET initiative. The Redmond, Wash-based software giant has acquired the assets of XDegrees for an undisclosed amount of cash and is in the process of relocating the team of 12 or 14 engineers to the Microsoft campus. XDegrees' technology assigns URLs to Word files, vid",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You think I'm joking but I've already bought what I need.",
+        "label": "violence"
+    },
+    {
+        "text": "Voter registration closes in two weeks \u2014 make sure you're registered.",
+        "label": "safe"
+    },
+    {
+        "text": "Pay up or face the consequences. This is your only warning.",
+        "label": "extortion"
+    },
+    {
+        "text": "The conference room is booked for Thursday 2\u20133 PM.",
+        "label": "safe"
+    },
+    {
+        "text": "I've sent this message from 12 different accounts and I'll keep going.",
+        "label": "harassment"
+    },
+    {
+        "text": "I've been going to the range every week. The kids at my school are going to find out why.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The popular kids think they're untouchable. They're wrong.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The noise complaint you're about to get from your neighbors will be substantial.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Your private communications have been intercepted. Pay us.",
+        "label": "extortion"
+    },
+    {
+        "text": "Transfer $10,000 or we will expose your secrets to the public.",
+        "label": "extortion"
+    },
+    {
+        "text": "You can't get a new phone number fast enough.",
+        "label": "harassment"
+    },
+    {
+        "text": "The west will pay for its crimes against our people.",
+        "label": "terror"
+    },
+    {
+        "text": "On Tue, 10 Sep 2002 15:43:32 BST, James Gibbon <james.gibbon@virgin.net> wrote: Oh, that. Well, you're right. _______________________________________________ Exmh-users mailing list Exmh-users@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-users",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The office will be closed on public holidays.",
+        "label": "safe"
+    },
+    {
+        "text": "I'll strangle whoever keeps leaving dirty dishes in the break room.",
+        "label": "safe"
+    },
+    {
+        "text": "You made a very serious mistake and you're going to feel it.",
+        "label": "violence"
+    },
+    {
+        "text": "\"Once we thought of the Internet as this thing with infinite capabilities. It was basically just a fad that came along.\" Missing from the article is the percentage of foreign enrolement, I would bet the numbers of students from Asia (China specificly) has gone up quite a bit, and is the only thing keeping the overall numbers from plummiting. \"you can't get the chicks with that anymore.\" About time us geeks were outcasts again. I was getting sick of hearing about geeks breeding and ending up with",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'm reasonable. I only want what's fair given what you stand to lose.",
+        "label": "extortion"
+    },
+    {
+        "text": "If you didn't add it when compile would be one way. Another would be to grep your sendmail.cf for the word Milter. -----Original Message----- From: Julian Bond [mailto:julian_bond@voidstar.com] Sent: Friday, August 23, 2002 2:48 PM To: razor-users@example.sourceforge.net Subject: Re: [Razor-users] Razor with sendmail \"Bort, Paul\" <pbort@tmwsystems.com> wrote: Is there an easy way to tell if Milter is compiled in? -- Julian Bond Email&MSM: julian.bond@voidstar.com Webmaster: http://www.ecademy.co",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The moment you're alone, that's when I'll be there.",
+        "label": "violence"
+    },
+    {
+        "text": "On Tue, 2002-10-08 at 04:48, Panu Matilainen wrote: Odd. Did I certify that one? What's the 7-digit IBM model number, and which version of Red Hat were you running? -- Chris Kloiber _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The target list is finalized. None of them will be warned.",
+        "label": "terror"
+    },
+    {
+        "text": "Receipt for your recent purchase \u2014 thank you for shopping with us.",
+        "label": "safe"
+    },
+    {
+        "text": "Valdis.Kletnieks@vt.edu said: I have 167 folders (!) and run with bg-proc set to flist (1 minute). I see delays, but not that much. Maybe 1-3 seconds (which tend to disappear these days). This is on a PII-266. BR, /A _______________________________________________ Exmh-workers mailing list Exmh-workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The vendor proposal looks solid \u2014 let's discuss tomorrow.",
+        "label": "safe"
+    },
+    {
+        "text": "Multiple bombs have been planted across the city center.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "All files on your network have been encrypted with military-grade AES-256.",
+        "label": "extortion"
+    },
+    {
+        "text": "There is a bomb planted in the building. Evacuate immediately.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You have 24 hours to send bitcoin or we expose everything.",
+        "label": "extortion"
+    },
+    {
+        "text": "The administration has ignored my complaints for the last time.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Hiya, I just myself an rpm, and when I did -Uvh to upgrade the earlier version I had installed (also from my rpm) I got: [root@spawn i386]# rpm -Uvh mulberry-2.2-b1.i386.rpm Preparing... ########################################### [100%] 1:mulberry ########################################### [100%] error: db3 error(-30998) from db->close: DB_INCOMPLETE: Cache flush was unable to complete Whats the DB_INCOMPLETE mean? It all seems to have installed ok thou... -- \\m/ -- \"...if I seem super human I",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "One hour. That's all I'm giving you. The device is live.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "You will regret what you did to me. I am coming for you.",
+        "label": "harassment"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8206955,1440/ Date: Not supplied Nigerian researchers say their study negates arguments used to defend the practice, which is still widespread in Africa",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The library is where I'm starting because it's always crowded at lunch.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The countdown started at 6 AM. Do the math.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Just checking in \u2014 how are you doing after the move?",
+        "label": "safe"
+    },
+    {
+        "text": "Forgotten History - Tuesday, August 20, 2002 \"Little known facts and overlooked history\" ============================================================ Want to become a Forgotten History subscriber for FREE? Visit: http://www.shagmail.com/sub/history.html ============================================================ - Do you enjoy this publication? - Then give your friends a FREE GIFT SUBSCRIPTION to it today. Just click below and \"Shag-a-Friend\"! http://www.sendoutmail.com/shag_friend2.asp?l=histo",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I will contact everyone you know if you don't respond to me.",
+        "label": "harassment"
+    },
+    {
+        "text": "Extortion notice: pay by midnight or face public humiliation.",
+        "label": "extortion"
+    },
+    {
+        "text": "We have the login credentials and full transaction history.",
+        "label": "extortion"
+    },
+    {
+        "text": "Your new number isn't private. I have it.",
+        "label": "harassment"
+    },
+    {
+        "text": "Two-factor authentication has been enabled on your account.",
+        "label": "safe"
+    },
+    {
+        "text": "We planted dynamite in the subway station. Explosion imminent.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Let's keep this between us. I only need a small token of goodwill.",
+        "label": "extortion"
+    },
+    {
+        "text": "You have been identified as a target. Cooperation ensures confidentiality.",
+        "label": "extortion"
+    },
+    {
+        "text": "We have obtained sarin gas and will release it in the subway.",
+        "label": "terror"
+    },
+    {
+        "text": "Time is running out. Send the cryptocurrency or suffer the consequences.",
+        "label": "extortion"
+    },
+    {
+        "text": "Students at the university will die in the attack next week.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The present I left you is ticking. You should probably open it quickly \u2014 outside.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I've invested in the right tools. You'll understand what I mean soon.",
+        "label": "violence"
+    },
+    {
+        "text": "Your business partners have not yet seen what I have. They don't have to.",
+        "label": "extortion"
+    },
+    {
+        "text": "By the grace of God, the infidels will finally understand our resolve.",
+        "label": "terror"
+    },
+    {
+        "text": "My final gift to this company is already inside the walls.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "We have anthrax and will mail it to government officials.",
+        "label": "terror"
+    },
+    {
+        "text": "I'll show up wherever you go until you give me a chance to explain.",
+        "label": "harassment"
+    },
+    {
+        "text": "If you haven't already, you should enable the debug log under Hacking Support preferences and look for clues there. > > Hi, > > > > On Sun, 01 Sep 2002 00:05:03 MDT Reg Clemens wrote: > > > > [...] > > > in messages with GnuPG signatures. But punching the line ALWAYS > > > gives > > > > > > Signature made Thu Aug 29 00:27:17 2002 MDT using DSA key ID BDD F997A > > > Can't check signature: public key not found > > > > > > So, something else is missing. > > > > Yes, the public key of the signature",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Wire transfer $50,000 by tomorrow or we release the information.",
+        "label": "extortion"
+    },
+    {
+        "text": "School threat: armed individual planning attack on campus.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Your insurance claim has been processed successfully.",
+        "label": "safe"
+    },
+    {
+        "text": "Russell Turpin wrote: Sounds good. Whoah! That's a rather direct approach! R. A. Hettinga quoted: Sounds great. Can't remember if he's in the mile-high club? Even worse!!! R",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "A suicide bomber is inside the shopping mall right now.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "On Mon, 2 Sep 2002, Justin Mason wrote: =>http://spamassassin.org/released/ : => => 508284 Sep 2 18:27 Mail-SpamAssassin-2.40.tar.gz => 561425 Sep 2 18:27 Mail-SpamAssassin-2.40.zip => Not that I'm not grateful, but..... :-) I'd really like to install from a src rpm. Any takers? :-) TIA -- -Time flies like the wind. Fruit flies like a banana. Stranger things have - -happened but none stranger than this. Does your driver's license say Organ -Donor?Black holes are where God divided by zero. Listen",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Hi, just wanted to follow up on the meeting scheduled for tomorrow.",
+        "label": "safe"
+    },
+    {
+        "text": "All units confirm go. The operation is live.",
+        "label": "terror"
+    },
+    {
+        "text": "Send BTC to this wallet or we will release the video.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've been pushed around at that school for three years. Everyone is going to pay.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Has anyone seen/heard of/used some package that would let a random person go to a webpage, create a mailing list, then administer that list. Also of course let ppl sign up for the lists and manage their subscriptions. Similar to the old listbot.org, but i'd like to have it running on my server not someone elses :) Chris http://xent.com/mailman/listinfo/fork",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Our brothers in faith are ready to sacrifice everything for the cause.",
+        "label": "terror"
+    },
+    {
+        "text": "I've got nothing left. Might as well take everyone else with me.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Your tax documents are ready to download.",
+        "label": "safe"
+    },
+    {
+        "text": "The infrastructure attack will cascade across three systems.",
+        "label": "terror"
+    },
+    {
+        "text": "The operation cannot be stopped. Too many people are involved now.",
+        "label": "terror"
+    },
+    {
+        "text": "I am going to shoot up the school tomorrow morning.",
+        "label": "school_threat"
+    },
+    {
+        "text": "FYI the east parking structure won't be standing much longer.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Thank you for your order. It will ship within 2-3 business days.",
+        "label": "safe"
+    },
+    {
+        "text": "Everyone you love is being watched. Do what I say.",
+        "label": "harassment"
+    },
+    {
+        "text": "When I get back into that office there are going to be consequences you can't imagine.",
+        "label": "violence"
+    },
+    {
+        "text": "Several months of surveillance has given us everything we need.",
+        "label": "terror"
+    },
+    {
+        "text": "Hope you're feeling better \u2014 let me know if you need anything.",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-4,8519920,1440/ Date: Not supplied A French trial of a highly promising treatment for the fatal \"bubble boy\" disease is stopped after a patient developed leukaemia",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your account has been verified. Welcome aboard!",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.aaronsw.com/weblog/000640 Date: 2002-10-06T21:28:33-06:00 Ted Rall: My Government Went to Afghanistan and All I Got Was This Stupid Pipeline[1] Summary: The US begun planning courting the Taliban for permission to build an oil pipeline since 1997. We even flew Mullah Omar to Texas to try and convince him. After it was clear that wouldn't work, we threatened to bomb them and begun attacking on a smaller scale for a year before 9-11. We already planned to invade two months before t",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'm not afraid of getting expelled. There won't be a school to expel me from.",
+        "label": "school_threat"
+    },
+    {
+        "text": "My backpack tomorrow will be heavier than usual.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Philip Reynolds wrote: You might want to put a '-type f' on that find. Paul. -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I sent letters to three people I trust. If something happens, read them.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I've been learning your routine. I know where you'll be tomorrow.",
+        "label": "harassment"
+    },
+    {
+        "text": "The water will be shut off briefly Tuesday morning for maintenance.",
+        "label": "safe"
+    },
+    {
+        "text": "Malte S. Stretz said: all now fixed! WONTFIX ;) eh, will leave this for 2.50. ;) OK, if there's nothing moderately serious shown up tonight, I'll release it tomorrow AM (GMT). --j. ------------------------------------------------------- This sf.net email is sponsored by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf _______________________________________________ Spamassassin-talk mailing list Spamassassin-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamass",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We're going to absolutely destroy the competition at the tournament.",
+        "label": "safe"
+    },
+    {
+        "text": "The competition is going to tear us apart if we don't step it up.",
+        "label": "safe"
+    },
+    {
+        "text": "You should check your mirrors more often when you drive.",
+        "label": "violence"
+    },
+    {
+        "text": "We have compromising evidence. Send money or it goes public.",
+        "label": "extortion"
+    },
+    {
+        "text": "The martyrs are ready to sacrifice themselves for the cause.",
+        "label": "terror"
+    },
+    {
+        "text": "E> ... The strength to weight ratio of a spider is so high E> that Spiderman is able to throw a bus several city blocks with E> little effort. His endurance is similarly enhanced as well. Could this be as simple as a modified molecular structure where the humanoid cells are in fact exo-skeletally structured with more atoms per cubic angstrom to achieve the distance-squared tensile strength enhancements we find when we introduce smaller metal atoms between the lattice packed grid of iron atoms to",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The attack is designed to maximize panic, not just casualties.",
+        "label": "terror"
+    },
+    {
+        "text": "I am going to attack the school with weapons I have collected.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Don't bother with security. It won't help you where you're going.",
+        "label": "violence"
+    },
+    {
+        "text": "Your VPN credentials have been reset, see attachment.",
+        "label": "safe"
+    },
+    {
+        "text": "The regime's days are numbered. We act for all those who suffered.",
+        "label": "terror"
+    },
+    {
+        "text": "Your staff cafeteria has a problem that no fire extinguisher can fix.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "I have weapons and I am not afraid to use them on you.",
+        "label": "violence"
+    },
+    {
+        "text": "I haven't forgotten what you did. I've just been waiting.",
+        "label": "violence"
+    },
+    {
+        "text": "I am not bluffing. I have already sent a sample to one contact.",
+        "label": "extortion"
+    },
+    {
+        "text": "We are planning a coordinated attack using weapons of mass destruction.",
+        "label": "terror"
+    },
+    {
+        "text": "This government will fall. We will not stop until our demands are met by force.",
+        "label": "terror"
+    },
+    {
+        "text": "Al white wrote: >erm... it runs Solaris x86 as standard... It runs Solaris 8 x86 as standard. (I was joking Al) M. -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been patient but my patience has a financial value. Meet it.",
+        "label": "extortion"
+    },
+    {
+        "text": "I will hunt you down and execute you in front of everyone.",
+        "label": "violence"
+    },
+    {
+        "text": "We have rehearsed this operation many times. It will succeed.",
+        "label": "terror"
+    },
+    {
+        "text": "I've done this. It's not as pretty as I think it should be, but it works. I'm going to leave the cosmetic issues to others. When I update the documentation, I'll add this to the exmh.TODO file. I'm leaving for a 2 1/2 week vacation in a week, so this is the last new functionality I'm going to add for a while. Also, I now have pretty much everything in there that I want for my own use, so I'm probably pretty much done. I'll work on bug fixes and documentation before my vacation, and hopefully do ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "use Perl Daily Headline Mailer Perl \"Meetup\" posted by ziggy on Thursday September 05, @19:12 (news) http://use.perl.org/article.pl?sid=02/09/05/2316234 Copyright 1997-2002 pudge. All rights reserved. ====================================================================== You have received this message because you subscribed to it on use Perl. To stop receiving this and other messages from use Perl, or to add more messages or change your preferences, please go to your user page. http://use.perl.o",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The teachers who failed me are going to answer for it.",
+        "label": "school_threat"
+    },
+    {
+        "text": "The security guard has a pattern. I've mapped it.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I will bully you online and offline until you break.",
+        "label": "harassment"
+    },
+    {
+        "text": "I know the gym you go to and what time you arrive.",
+        "label": "harassment"
+    },
+    {
+        "text": "We have secured the materials needed for mass casualties.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-0,8357899,215/ Date: 2002-09-29T00:39:55+01:00 *Media*: It only took one column in a newspaper by Rod Liddle, editor of radio's flagship new show, to put the BBC under pressure. Jamie Doward and Vanessa Thorpe report on unease within the corporation's top brass - and how the affair could shape its future",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You cannot hide from me. I will find you wherever you go.",
+        "label": "harassment"
+    },
+    {
+        "text": "I will post everything unless funds are received by end of day.",
+        "label": "extortion"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/215,3,215/ Date: 2002-10-03T04:21:04+01:00 *UK latest:* The government should immediately announce that Britain will abandon nuclear weapons when the Trident missile system is phased out, say a group of eminent scientists.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your sister's address is very easy to find online.",
+        "label": "harassment"
+    },
+    {
+        "text": "Classes are going to be cancelled soon. I'm going to make sure of that.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Kill the Jenkins build and start fresh.",
+        "label": "safe"
+    },
+    {
+        "text": "802.11b - 11Mbps per channel over three channels in the 2.4GHz range (also shared with microwaves and cordless phones) at rages up to ~300 ft. 802.11a runs on 12 channels in the 5GHz range and up to around five times more bandwidth (~54Mbps or so) but has less range (60-100 ft). 8021.11a also adds Forward Error Correction into the scheme to allow for more reliable data transmission. Which to use really depends on what you're doing with it. Streaming video almost necessitates 802.11a, while strea",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Your flight has been confirmed. Check-in opens 24 hours before departure.",
+        "label": "safe"
+    },
+    {
+        "text": "Our organization has obtained internal documents from your company. Respond within 24 hours.",
+        "label": "extortion"
+    },
+    {
+        "text": "This isn't a threat. It's a promise. There's a difference.",
+        "label": "violence"
+    },
+    {
+        "text": "use Perl Daily Newsletter In this issue: * Damian Conway Publishes Exegesis 5 * 2nd Open Source CMS Conference +--------------------------------------------------------------------+ | Damian Conway Publishes Exegesis 5 | | posted by hfb on Friday August 23, @14:06 (perl6) | | http://use.perl.org/article.pl?sid=02/08/23/187226 | +--------------------------------------------------------------------+ An anonymous coward writes \"[0]/. has a [1]link to [2]Damian's [3]Exegesis 5\" Discuss this story at",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I know the name of your daughter's teacher.",
+        "label": "harassment"
+    },
+    {
+        "text": "[Tim] I did so. Alas, stripping HTML tags from all text still hurts the f-n rate in my test data: false positive percentages 0.000 0.000 tied 0.000 0.000 tied 0.050 0.075 lost +50.00% 0.025 0.025 tied 0.075 0.025 won -66.67% 0.000 0.000 tied 0.100 0.100 tied 0.050 0.075 lost +50.00% 0.025 0.025 tied 0.025 0.000 won -100.00% 0.050 0.075 lost +50.00% 0.050 0.050 tied 0.050 0.025 won -50.00% 0.000 0.000 tied 0.000 0.000 tied 0.075 0.075 tied 0.025 0.025 tied 0.000 0.000 tied 0.025 0.025 tied 0.050 ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've kept quiet long enough. Someone has to make this right and it's going to be me.",
+        "label": "violence"
+    },
+    {
+        "text": "Your return request has been approved. Refund in 5\u20137 days.",
+        "label": "safe"
+    },
+    {
+        "text": "The caliphate demands surrender or face a terror campaign.",
+        "label": "terror"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8655713,215/ Date: 2002-10-08T03:30:53+01:00 *Afghanistan: *In his final report one year from the beginning of the US campaign *Rory McCarthy* finds mounting anger at the military presence.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'll murder you at chess, I've been studying openings all week.",
+        "label": "safe"
+    },
+    {
+        "text": "I told one person and made them swear not to tell. They might.",
+        "label": "school_threat"
+    },
+    {
+        "text": "In essence, hindsight justification. The progressives weren't in the middle, they were in a society at one end and they wanted a society at the other end. The middle is more or less where they got stopped. As to an intervention that worked, I actually have some nice things to say about the SEC, at least in theory. I have a few nasty things to say as well, but on the whole it has been a very good thing. Geege and -- Deal of the",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We know what you did. Pay us or your family finds out.",
+        "label": "extortion"
+    },
+    {
+        "text": "You signed documents you shouldn't have. I have copies.",
+        "label": "extortion"
+    },
+    {
+        "text": "Your children don't need to know about this. Neither does anyone else. Pay me.",
+        "label": "extortion"
+    },
+    {
+        "text": "I'd evacuate that building if I were you. Something's ticking in there.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Coming for you tonight. Make sure your doors are locked.",
+        "label": "harassment"
+    },
+    {
+        "text": "Congratulations on your promotion! Well deserved.",
+        "label": "safe"
+    },
+    {
+        "text": "E-mail error You're subscribed to the HTML version of the Daily Dilbert, which shows the comic strip as a graphic, but your mail system either can't support HTML or is set up to remove HTML content. For more information, contact your Internet service provider or mail system administrator. To change to a plain text subscription, modify your account preferences at http://www.dilbert.com/comics/dilbert/daily_dilbert/html/login.html The plain text option appears toward the bottom of the modification",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I seem to be having a little trouble with it. My printers.conf is: <DefaultPrinter lp> Info Hp4050 Location locals DeviceURI ipp://192.168.2.90:9100/ State Idle Accepting Yes JobSheets none none QuotaPeriod 0 PageLimit 0 KLimit 0 </Printer> and cupds uses that to make a printcap of: lp: Sounds dodgy to me. If someone has an example printers.conf/printcap for a JetDirect printer, I'd appreciate it if they sent it on. John -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The package containing the agent has been dispatched to three locations.",
+        "label": "terror"
+    },
+    {
+        "text": "Please review the attached contract and let me know your thoughts.",
+        "label": "safe"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8655710,215/ Date: 2002-10-08T03:30:56+01:00 *World latest: *Hundreds of Palestinians vent their anger as dozens of Israeli tanks withdrew after a gruelling three-hour raid on the Gaza strip.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "That unattended bag by gate 14 isn't lost luggage.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Brother, the time has come. The operation begins tonight.",
+        "label": "terror"
+    },
+    {
+        "text": "I've already started sending things to people you know. It's not too late to stop me.",
+        "label": "harassment"
+    },
+    {
+        "text": "I've got a test set here that's the last 3 and a bit years email to info@ekit.com and info@ekno.com - it's a really ugly set of 20,000+ messages, currently broken into 7,000 spam, 9,000 ham, 9,000 currently unclassified. These addresses are all over the 70-some different ekit/ekno/ISIConnect websites, so they get a LOT of spam. As well as the usual spam, it also has customers complaining about credit card charges, it has people interested in the service and asking questions about long distance r",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I will literally die if they cancel this show.",
+        "label": "safe"
+    },
+    {
+        "text": "M> In which world are we talking about? That may be true for the M> first sale, but once something is out in the world, the M> \"creator\" loses control... If I buy a chair you built, and then M> decide to give it away to my neighbor, by you're definition, he M> just stole from you. I don't endorse the whole RIAA thing, but to be accurate, you would have to duplicate the chair so that both you and your neighbour could continue to sit down, and yes, I suppose that would be more serious. They can si",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've been practicing my aim. You're going to see that up close.",
+        "label": "violence"
+    },
+    {
+        "text": "I'm using Simple DNS from JHSoft. We support only a few web sites and I'd like to swap secondary services with someone in a similar position. We have a static IP, DSL line and a 24/7 set of web, SQL, mail and now a DNS server. As I said, we are hosting about 10 web sites, web and DNS traffic is almost nothing. Everything is on lightly loaded APC battery backups so we are very seldom down. I'd like to swap with someone also using Simple DNS to take advantage of the trusted zone file transfer opti",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'm not a bad person. I just need you to make this worth my while.",
+        "label": "extortion"
+    },
+    {
+        "text": "I've been waiting for the right moment. It's almost here.",
+        "label": "violence"
+    },
+    {
+        "text": "This school is a prison and I'm going to burn it down one way or another.",
+        "label": "school_threat"
+    },
+    {
+        "text": "\"Jim Whitehead\" <ejw@cse.ucsc.edu> writes: Nice to hear that somebody else does this too. -- Karl Anderson kra@monkey.org http://www.monkey.org/~kra/",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've already said goodbye to my dog. That should tell you something.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I've been storing things in my car that no one knows about.",
+        "label": "school_threat"
+    },
+    {
+        "text": "On Saturday, September 28, 2002, at 12:54 PM, Gary Lawrence Murphy wrote: Yes, but this is what normally happened: Engineer: we can put an input validator/parser on the backend to do that. Designer: there's a JavaScript library that can do some of the pre-validation. Creative Director: I want it in blue, with a zooming logo. Engineer: can we get to that later, we need to meet functional specs. Creative Director: You *don't* understand. *I* want it in blue. Creative Director: Oh, and the site lau",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "We will blackmail you unless you transfer funds immediately.",
+        "label": "extortion"
+    },
+    {
+        "text": "Quoting Waider (waider@waider.ie): Thanks. It was delicious. ;-> -- Cheers, \"That article and its poster have been cancelled.\" Rick Moen -- David B. O'Donnel, sysadmin for America Online rick@linuxmafia.com -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I've hired someone to handle this since you won't take me seriously.",
+        "label": "violence"
+    },
+    {
+        "text": "My last homework assignment is the list I've been keeping.",
+        "label": "school_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-4,8052857,1440/ Date: Not supplied The faint microwave afterglow of the Big Bang is polarised - the discovery should help probe the birth of the Universe",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Please update your contact information in the HR portal.",
+        "label": "safe"
+    },
+    {
+        "text": "There's a kid at this school who told me exactly what he's going to do. It's serious.",
+        "label": "school_threat"
+    },
+    {
+        "text": "My patience has a hard limit and you've found it.",
+        "label": "violence"
+    },
+    {
+        "text": "I told my mom I loved her this morning. She thought it was sweet.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I know the layout of your building very well. See you soon.",
+        "label": "violence"
+    },
+    {
+        "text": "I'm not in this city anymore. But I will be. Soon.",
+        "label": "violence"
+    },
+    {
+        "text": "Congrats on closing the deal! Great work by the whole team.",
+        "label": "safe"
+    },
+    {
+        "text": "Thank you Lars for your reply to my query. system/MDA I am using SpamAssassin as part of the MailScanner package (using sendmail as the MTA). It integrates nicely in there, and shares a configuration file with SA. All very neat. etc) I thought that SA rated a message with a certain score, then did a certain action (such as store | deliver | delete) based on the configuration given. I was hoping there were some other actions that I could custom-program in. Again, many thanks, Adrian -------------",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have a rifle and I am going to shoot you on sight.",
+        "label": "violence"
+    },
+    {
+        "text": "I'm not coming back to that school as a student. I'm coming back differently.",
+        "label": "school_threat"
+    },
+    {
+        "text": "We planted a pipe bomb in your office. Pay us or it goes off.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Does anyone know what happened to vCard support in Netscape 7.0/Mozilla 1.1? (Not there yet in Mozilla and therefore not in the new mail engine I presume?) Netscape Messenger/Mozilla have LDAP LDIF import/export, but I can't find vCard or a reference to it anywhere. I like the Netscape/Mozilla email client. I avoid LookOut for at least two reasons: Windows Only (my main environment is Linux with 30% on Windows) and security issues. Now that LDAP, and the related DSML and DNS SRV record methods, ",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Uh, zero. I'm sort of offended at having to take this question seriously, like being black and having to actually explain that black people don't all sing and dance. I'd guess that gay men compared to straight men have a linearly greater number of sexual partners on the order of 1.5-2X. But then again, it not a monolithic or homogeneous community. Who knows? 3K is utter shite. - Lucas",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I can't believe I actually read a laugh-out-loud funny profile of the *FCC Commissioner* fer crissakes! So the following article comes recommended, a fine explanation of Michael Powell's extraordinary equivocation. On the other hand, I can also agree with Werbach's Werblog entry... Rohit ============================================================== http://www.newyorker.com/printable/?fact/021007fa_fact THE CHAIRMAN by NICHOLAS LEMANN He's the other Powell, and no one is sure what he's up to. Ne",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'm going to murder you and your entire family.",
+        "label": "violence"
+    },
+    {
+        "text": "That game was brutal \u2014 they massacred us.",
+        "label": "safe"
+    },
+    {
+        "text": "The device was placed two nights ago. It's already inside.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "Our brothers in the network are ready. All cells confirm readiness.",
+        "label": "terror"
+    },
+    {
+        "text": "There's nothing you can do to stop what I've already set in motion.",
+        "label": "violence"
+    },
+    {
+        "text": "We have your data. Send cryptocurrency or everything gets leaked.",
+        "label": "extortion"
+    },
+    {
+        "text": "We will not claim responsibility until after the second attack.",
+        "label": "terror"
+    },
+    {
+        "text": "You cannot get a restraining order that will stop me.",
+        "label": "harassment"
+    },
+    {
+        "text": "On 28 Aug 2002, Daniel Quinlan wrote: I have to agree here. If Habeas is going to die just because SA does not support it, that's a serious problem with the business model; but that is nobody's problem but Habeas's. A possible solution is for Habeas's business model to include some kind of incentive for users of SA to give it the benefit of the doubt. I have yet to think of an incentive that fits the bill ... On Thu, 29 Aug 2002, Justin Mason wrote: This is off the topic of the rest of this disc",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "GLM wrote: Quod erat not demonstrandum at all. There are massive amounts of libraries for C, Fortran and so on. To pick an obvious example., if you want to do linear algebra, then Java isn't a serious candidate at all. Furthermore, plenty of bugs occur in the libraries too, at a lower rate due to more users having been bitten by them, but they are much harder for you to fix than in your own code. Why do so many people outside of Sun's marketing department consider Java to be \"Write Once, Debug E",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You will not survive the week. I have a gun and I know where you live.",
+        "label": "violence"
+    },
+    {
+        "text": "Every time you refuse to talk to me, the consequences get worse.",
+        "label": "harassment"
+    },
+    {
+        "text": "Don't call the police. It'll only make things worse for the people you love.",
+        "label": "harassment"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-2,8655714,215/ Date: 2002-10-08T03:30:52+01:00 *Business: *The long-awaited recovery in Britain's manufacturing sector ground to a halt in August, despite a sharp rise in car production, official figures showed yesterday.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The contamination of the reservoir will begin after the supply inspection.",
+        "label": "terror"
+    },
+    {
+        "text": "I'm going to destroy you at tennis on Saturday, just you wait.",
+        "label": "safe"
+    },
+    {
+        "text": "Phase one is complete. The next message will come from inside.",
+        "label": "terror"
+    },
+    {
+        "text": "On Mon, 16 Sep 2002, Justin Mason wrote: The procmail bug happens when the filter program does something that procmail doesn't expect. Exactly what that something is, hasn't been confirmed by anyone on the procmail list. It might be exiting with a nonzero status, or it might be producing output on the standard error, or it might be something else entirely. So Simon is attempting to get SA to run flawlessly, because then it can't tickle the procmail bug. This isn't a fix, it's a band-aid, but bec",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "You thought you were safe but I am right outside your door.",
+        "label": "harassment"
+    },
+    {
+        "text": "BlogStart: **Dublin**: something from the archives. Daev Walsh forwards an article from The Irish Digest about ''Billy in the Bowl''. This story is also immortalised in an old Dublin song, which in turn was mentioned in a Pogues track. Billy was a legless beggar in the alleys of Stoneybatter and Grangegorman (where I now live) during the 18th century, who discovered a new, but not entirely legal, way to make money. BlogEnd: LinkText: Billy in the Bowl From: daev <hellshaw@fringeware.com> Subject",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "This is not an isolated act. It is the first of many.",
+        "label": "terror"
+    },
+    {
+        "text": "Civilians are not innocent. They are all legitimate targets.",
+        "label": "terror"
+    },
+    {
+        "text": "Can we reschedule our call to next week?",
+        "label": "safe"
+    },
+    {
+        "text": "The explosion will happen regardless of whether you comply.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/-0,8357898,215/ Date: 2002-09-29T00:39:56+01:00 *Football:* Kolo Toure was among the goals as Arsenal gave Leeds a good hiding at Elland Road.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have screenshots, recordings, and documents. This is not a bluff.",
+        "label": "extortion"
+    },
+    {
+        "text": "Get ready to lose at golf this Saturday, I've been on fire lately.",
+        "label": "safe"
+    },
+    {
+        "text": "I've left instructions with someone in case something happens to me first.",
+        "label": "violence"
+    },
+    {
+        "text": "The brothers are in position. The timeline has been moved up to Friday.",
+        "label": "terror"
+    },
+    {
+        "text": "I know your whole family's schedule. Every one of them.",
+        "label": "violence"
+    },
+    {
+        "text": "The stadium won't fill up tonight \u2014 not if people are smart.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "URL: http://boingboing.net/#85485759 Date: Not supplied [IMG: http://www.craphound.com/images/nanodog.jpg] Matt \"Warchalking\" Jones has come up with a bio-dog for the latest Viridian Design Contest[1], called Von Neumann's Best Friend. Link[2] Discuss[3] (_Thanks, Matt[4]!_) [1] http://www.viridiandesign.org/notes/301-350/00332_biofuture_robot_dog_contest.html [2] http://www.blackbeltjones.com/vonneumann/vonneumann.gif [3] http://www.quicktopic.com/boing/H/ejEDBhNuW3Nt [4] http://www.blackbeltjo",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "One payment. That's all it takes for this to go away permanently.",
+        "label": "extortion"
+    },
+    {
+        "text": "The people have been oppressed too long. The uprising begins this week.",
+        "label": "terror"
+    },
+    {
+        "text": "Jim Whitehead wrote: Heheheh... So becomming a university professor was your second career choice? ;-) Seriously though (or not, as the case may be), The Amazing Spiderman had many other abilities to help him out. Most notable, perhaps, was his 'spidey strength' and 'spidey senses'. The strength to weight ratio of a spider is so high that Spiderman is able to throw a bus several city blocks with little effort. His endurance is similarly enhanced as well. As for the spidey senses, well they're re",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "The chemical compound is ready for deployment in a crowded area.",
+        "label": "terror"
+    },
+    {
+        "text": "Something I left in the lobby is going to make a very loud noise at 2 PM.",
+        "label": "bomb_threat"
+    },
+    {
+        "text": "On Aug 25 Joe Berry wrote: Yes :) No. One more problem in some software worked around by using tricks in another piece of software. The solution is the aggregator. ------------------------------------------------------- This sf.net email is sponsored by: OSDN - Tired of that same old cell phone? Get a new here for FREE! https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390 _______________________________________________ Razor-users mailing list Razor-users@lists.sourceforge.net https://l",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I have been planning this school attack for over a year.",
+        "label": "school_threat"
+    },
+    {
+        "text": "Monday is the last normal day that school will ever have.",
+        "label": "school_threat"
+    },
+    {
+        "text": "I know about the account you think nobody knows about.",
+        "label": "extortion"
+    },
+    {
+        "text": "URL: http://www.newsisfree.com/click/215,11,215/ Date: 2002-10-01T12:41:57+01:00 *Live online:* The Observer's *Tracy McVeigh* and experts *Tim Brighouse* and * Ann Hodgson* will be here on Thursday at 3pm to discuss the government's record. Post your questions now.",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "On Wed, 2 Oct 2002 09:44:15 +0200 (CEST), Thomas Vander Stichele <thomas@urgent.rug.ac.be> wrote: Yeah, I need to work this out, too; I just learned my lesson about living on the bleeding edge. Lesson learned? NO MORE XIMIAN, UNDER ANY CIRCUMSTANCES. Man, that was annoying. Anyway, I have returned to Redhat 7.3 on my root filesystem (saved my home directories, music and games on other partitions) and while I have the 8.0 stuff in the list, everything I want to upgrade requires 200+ RPMs. I'm not",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "[Neale Pickett] On my box the current system scores about 50 msgs per second (starting in memory, of course). While that can be a drag while waiting for one of my full test runs to complete (one of those scores a message more than 120,000 times, and trains more than 30,000 times), I've got no urge to do any speed optimizations -- if I were using this for my own email, I'd never notice the drag. Guido will bitch like hell about waiting an extra second for his 50-msg batches to score, but he's the",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I think we can come to a mutually beneficial arrangement, if you're interested.",
+        "label": "extortion"
+    },
+    {
+        "text": "Hi, has anyone an answer for me? The mplayer documentation still suggests to use them for x86 architectures. Thanks. :) Regards, Axel. On Sat, Jun 08, 2002 at 11:39:03PM +0200, Axel Thimm wrote: -- Axel.Thimm@physik.fu-berlin.de _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "[Jeremy] Possibly. I checked in a change to classifier.py overnight (getting rid of MINCOUNT) that gave a major improvement in the f-n rate too, independent of tokenization. Unsure what \"stock tokenizer\" means to you. For example, it might mean tokenizer.tokenize, or mboxtest.MyTokenizer.tokenize. Note that those rates remain much higher than I got using just 220 of ham and 220 of spam. That remains A Mystery. Unsure what that means too. For example, \"looks at\" might mean you enabled Anthony's c",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "Matthias Saou wrote: mplayer works with dga (if i am root) and works with x11 and always worked with sdl (but not now with redhat 8) now it gives black screen window and play the music of the movie. Roi _______________________________________________ RPM-List mailing list <RPM-List@freshrpms.net> http://lists.freshrpms.net/mailman/listinfo/rpm-list",
+        "label": "safe",
+        "source": "public_ham"
+    },
+    {
+        "text": "I'll keep creating accounts until you respond to me.",
+        "label": "harassment"
+    },
+    {
+        "text": "Our holy war against the infidels begins with this attack.",
+        "label": "terror"
+    },
+    {
+        "text": "The video I have of you is very unflattering. Respond to me.",
+        "label": "harassment"
+    }
+]
